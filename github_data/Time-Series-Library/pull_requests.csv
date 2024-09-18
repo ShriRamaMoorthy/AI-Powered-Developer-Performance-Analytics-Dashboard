@@ -1,0 +1,63 @@
+id,author,state,created_at,merged_at,title
+2066308317,Musongwhk,closed,2024-09-11 13:16:57+00:00,2024-09-11 13:19:58+00:00,fix bugs according to issues #529 #516
+2065807514,Musongwhk,closed,2024-09-11 09:32:56+00:00,2024-09-11 09:42:35+00:00,Add SCINet
+2055506939,DigitalLifeYZQiu,closed,2024-09-05 12:25:17+00:00,2024-09-05 13:16:36+00:00,#bugfix: Augmentation code fixing
+2036080478,akkasayaz,closed,2024-08-25 15:39:42+00:00,2024-08-27 03:57:16+00:00,Update requirements.txt
+2027886100,eltociear,closed,2024-08-20 15:08:53+00:00,2024-08-21 06:26:53+00:00,docs: update README.md
+2016243195,webbershaw,closed,2024-08-13 03:35:26+00:00,2024-08-13 05:02:04+00:00,Fix data_factory.py which will shuffle test dataset for classification tasks
+2014006377,revv00,closed,2024-08-11 23:57:52+00:00,2024-08-15 02:41:01+00:00,ConvBlock: fix inception v2 kernel number to reslist size mapping
+2013731180,WinstonLiyt,closed,2024-08-11 08:32:25+00:00,,Update my custom data loader and the script for the Transformer model.
+2002006447,gyangyun,closed,2024-08-03 12:04:59+00:00,,add industry electricity data
+2002006379,gyangyun,closed,2024-08-03 12:04:47+00:00,,add industry electricity data
+1991243694,blacksnail789521,closed,2024-07-29 02:36:53+00:00,2024-07-29 03:13:24+00:00,use true - pred in M*E
+1983394909,blacksnail789521,closed,2024-07-23 13:49:08+00:00,2024-07-23 19:15:48+00:00,remove act and dropout for dlinear's classification
+1983155497,mauricekraus,closed,2024-07-23 11:48:36+00:00,2024-08-20 11:28:32+00:00,Fix Monthly split for M4 Comp
+1967839352,liuquangao,closed,2024-07-13 13:21:29+00:00,2024-07-14 03:37:13+00:00,Update exp_long_term_forecasting.py
+1967165729,thawn,open,2024-07-12 18:49:28+00:00,,refactored into a python package
+1956421670,longtylata,closed,2024-07-07 12:17:53+00:00,,Sorry
+1947046970,kwuking,closed,2024-07-01 10:53:25+00:00,2024-07-01 13:20:18+00:00,Update TimeMixer to add analysis task of time series
+1899644448,Ruifeng-Tan,closed,2024-06-02 17:31:50+00:00,2024-06-03 13:23:58+00:00,correct the normalization in PatchTST
+1891864217,Musongwhk,closed,2024-05-28 13:12:54+00:00,2024-05-28 13:14:35+00:00,add TemporalFusionTransformer
+1865606032,ztxtech,open,2024-05-13 02:57:37+00:00,,Add TEFN model
+1856183611,GrigoriiTarasov,closed,2024-05-06 13:26:26+00:00,2024-05-06 19:31:04+00:00,fixed model_name to FEDformer in ECL_script
+1855414639,lizhuoq,closed,2024-05-06 04:38:26+00:00,2024-05-06 19:31:39+00:00,Remove redundant code from data_factory.py
+1844348689,johnny890122,open,2024-04-28 11:38:56+00:00,,fetch the latest commit
+1842456840,DigitalLifeYZQiu,closed,2024-04-26 09:18:46+00:00,2024-04-26 09:21:10+00:00,Augmentation code base for Time-Series-Library
+1807054427,frecklebars,closed,2024-04-04 13:29:09+00:00,2024-04-04 15:05:22+00:00,Added Mamba models implementation for forecasting tasks
+1797759905,lss-1138,closed,2024-03-29 10:57:58+00:00,2024-04-01 09:04:40+00:00,Add SegRNN Code
+1795494500,kwuking,closed,2024-03-28 07:56:34+00:00,2024-03-28 08:25:16+00:00,add TimeMixer and TSMixer
+1769183685,liyiersan,closed,2024-03-13 02:19:32+00:00,2024-03-13 02:59:58+00:00,fix bugs in imputation for MS
+1767029077,johnny890122,closed,2024-03-12 02:36:19+00:00,,Test/wandb
+1736589903,ztxtech,closed,2024-02-21 11:13:11+00:00,,Add a conventor from running script to json
+1668257593,WenWeiTHU,closed,2024-01-08 05:31:48+00:00,2024-01-08 05:34:19+00:00,fix KPLayer in Koopa.py
+1662130629,ChuckTG,closed,2024-01-02 18:01:06+00:00,2024-01-03 15:26:50+00:00,Add FreTS model
+1628244751,Mico3o,closed,2023-12-04 12:54:52+00:00,2023-12-05 03:49:25+00:00,Update README.md
+1612140173,jdleaverton,closed,2023-11-22 05:18:48+00:00,2023-11-22 12:45:06+00:00,Format console args print for readability
+1611079185,jurij-ch,closed,2023-11-21 14:28:41+00:00,2023-11-22 12:52:18+00:00,[bug-fix] Values of args are not actual while printing in console.
+1610868687,jurij-ch,closed,2023-11-21 12:25:12+00:00,,[bug-fix] Values of args are not actual while printing in console.
+1583596179,jiengup,open,2023-11-02 03:12:49+00:00,,[bug-fix] TimeFeatureEmbedding KeyError with detailed freq arg.
+1581256231,Techuuu,closed,2023-10-31 15:57:13+00:00,,Update README.md
+1577912519,PentesterPriyanshu,closed,2023-10-29 16:13:44+00:00,,Create .gitpod.yml
+1577840306,mohitd404,closed,2023-10-29 12:05:23+00:00,2023-10-29 14:49:11+00:00,Updated Contributors Section
+1575984032,lichenyu20,closed,2023-10-27 06:04:16+00:00,2023-10-27 06:29:11+00:00,add Koopa
+1575980430,lichenyu20,closed,2023-10-27 06:00:15+00:00,,add Koopa
+1573374479,RS-labhub,closed,2023-10-25 17:33:00+00:00,2023-10-26 03:37:36+00:00,README.md
+1572107895,Kris248,open,2023-10-25 04:03:01+00:00,,Added code of conduct file.
+1569782243,harshhere905,closed,2023-10-23 19:03:30+00:00,,Update README.md
+1569330648,romitp4l,closed,2023-10-23 14:38:14+00:00,,added a missing CODE OF CONDUCT file 
+1569203823,bhargavshirin,closed,2023-10-23 13:35:50+00:00,2023-10-23 14:16:13+00:00,added full_stops
+1567963234,Shivam250702,closed,2023-10-22 04:46:21+00:00,2023-10-22 09:06:23+00:00,Update README.md
+1567962502,ayushrakesh,closed,2023-10-22 04:41:31+00:00,2023-10-22 09:10:55+00:00,Update README.md - Fixed a Grammar bug in README.md file.
+1567948816,alienishi,closed,2023-10-22 03:16:04+00:00,2023-10-22 09:13:32+00:00,docs: Corrected minute grammatical errors in README.md
+1567854695,0Armaan025,closed,2023-10-21 18:38:35+00:00,2024-08-15 03:08:53+00:00,Made CONTRIBUTING.md
+1567751135,ShikhaKumari01,closed,2023-10-21 13:15:03+00:00,,Create tic_tac_toe.cpp
+1567751032,shresthasurav,closed,2023-10-21 13:14:38+00:00,2023-10-22 09:08:30+00:00,docs: fix and improve content in tutorial/TimesNet_tutorial.ipynb
+1567750438,FarukhS52,closed,2023-10-21 13:12:53+00:00,2023-10-22 09:10:39+00:00,Fixed Typos and grammar issues in Readme.md
+1567697889,eltociear,closed,2023-10-21 10:16:02+00:00,2023-10-21 11:20:50+00:00,Fix typo in README.md
+1558840678,ChuckTG,closed,2023-10-16 15:15:22+00:00,2023-10-17 01:58:25+00:00,Update iTransformer_ETTh2.sh to match the dims of ETT dataset
+1502078388,cennn,closed,2023-09-05 04:06:51+00:00,2023-09-05 04:52:52+00:00,Bug Fix: ECL_script/Transformer.sh
+1502077596,cennn,closed,2023-09-05 04:05:33+00:00,2023-09-05 04:52:41+00:00,Bug Fix: ECL_script/Nonstationary_Transformer.sh
+1502076034,cennn,closed,2023-09-05 04:02:59+00:00,2023-09-05 04:53:04+00:00,Fix error: Traffic/Transformer.sh
+1334890881,barisozu,closed,2023-05-02 08:49:24+00:00,,patool import error fix
+1293555521,kashif,closed,2023-03-28 19:57:26+00:00,2023-03-30 14:17:13+00:00,proper attribution for time features
+1289659764,imanmousaei,closed,2023-03-24 21:42:06+00:00,2023-03-25 13:38:18+00:00,Fix some bugs

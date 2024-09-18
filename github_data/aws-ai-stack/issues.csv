@@ -1,0 +1,12 @@
+id,author,state,created_at,closed_at,title
+2526100472,Asterisk-z,closed,2024-09-14 08:41:46+00:00,2024-09-16 00:04:02+00:00,Unable to use
+2525980411,Trindad1235,closed,2024-09-14 04:11:59+00:00,2024-09-16 00:04:24+00:00,Igor perreto
+2525196031,thegr8est-gif,closed,2024-09-13 16:18:51+00:00,2024-09-16 00:04:49+00:00,#sudo su Update README.md
+2521150339,eltociear,closed,2024-09-12 01:58:57+00:00,2024-09-16 00:05:26+00:00,chore: update README.md
+2520850702,ajshkry,open,2024-09-11 21:51:05+00:00,,Feature request: RUG integration
+2520344836,BastianZim,closed,2024-09-11 17:33:46+00:00,2024-09-11 17:59:32+00:00,Clarify demo usage
+2516952027,walidelnozahy,closed,2024-09-10 16:39:33+00:00,2024-09-11 17:05:20+00:00,feat: add favicon
+2516443205,walidelnozahy,closed,2024-09-10 13:13:28+00:00,2024-09-10 15:01:23+00:00,feat: update UI
+2515105926,skierkowski,closed,2024-09-09 23:33:48+00:00,2024-09-10 16:32:04+00:00,Feature Request: Add support for multi-line inputs
+2515103738,skierkowski,open,2024-09-09 23:31:25+00:00,,Feature Request: save the chat history
+2515101911,skierkowski,open,2024-09-09 23:29:27+00:00,,Feature request: Add other standard features to authentication service

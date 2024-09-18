@@ -1,0 +1,6 @@
+streamlit==1.14.0
+pandas==2.0.3
+plotly==5.13.1
+requests==2.30.0
+python-dotenv==1.0.0
+sentence-transformers==2.2.2

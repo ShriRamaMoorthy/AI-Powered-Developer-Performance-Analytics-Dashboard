@@ -1,0 +1,531 @@
+id,author,state,created_at,closed_at,title
+2526162579,rendezvoush,open,2024-09-14 09:39:26+00:00,,"Win 10 with Nvidia GPU,  env: Python 3.11+ Torch>=2.0.0 + PyTorch-Cuda>= 11.0,   run.py works with GPU mode"
+2526060154,holderhe,open,2024-09-14 07:53:59+00:00,,could not use multiple gpus in MICN
+2524464226,Nutingnon,open,2024-09-13 10:14:36+00:00,,FEDFormer block error
+2519728085,Musongwhk,closed,2024-09-11 13:16:57+00:00,2024-09-11 13:19:58+00:00,fix bugs according to issues #529 #516
+2519668751,Chuan112233,closed,2024-09-11 12:53:02+00:00,2024-09-11 13:13:32+00:00,评估指标问题
+2519176867,Musongwhk,closed,2024-09-11 09:32:56+00:00,2024-09-11 09:42:36+00:00,Add SCINet
+2518284768,1272388611github,closed,2024-09-11 01:56:55+00:00,2024-09-11 09:20:03+00:00,你好，在关于长时间序列预测问题的代码复现过程中，我在TimesNet获得结果与论文相差不大，但是PatchTST与TimeMixer
+2515618945,XiaoJia849,closed,2024-09-10 07:20:56+00:00,2024-09-12 02:04:20+00:00,Errors in  layers/ETSformer_EncDec.py
+2515260868,MR-HOLO,closed,2024-09-10 02:25:53+00:00,2024-09-10 07:06:32+00:00,维度不匹配
+2512412349,rbm123456,closed,2024-09-08 14:20:47+00:00,2024-09-10 07:10:25+00:00,bash /scripts/short_term_forecast/M4/xxx.sh
+2512164215,amszwolf,closed,2024-09-08 02:37:17+00:00,2024-09-10 09:51:28+00:00,"Errors occurred while running several scripts under /script/classification: TimesNet.sh, Transformer.sh"
+2511543752,MR-HOLO,closed,2024-09-07 08:36:38+00:00,2024-09-08 02:37:35+00:00,UnicodeDecodeError: 'gbk' codec can't decode byte 0xb8 in position 4507: illegal multibyte sequence
+2511158378,yitaochen,open,2024-09-06 20:35:47+00:00,,python package local-attention release 1.9.15 causes ModuleNotFoundError: No module named 'torch.amp'
+2507637758,DigitalLifeYZQiu,closed,2024-09-05 12:25:17+00:00,2024-09-05 13:16:36+00:00,#bugfix: Augmentation code fixing
+2506814974,Chuan112233,closed,2024-09-05 05:37:55+00:00,2024-09-05 08:04:07+00:00,用了clamp，评估指标没有提升
+2501585472,voorhs,open,2024-09-02 21:09:10+00:00,,Will you include S4 and other state-space models in your benchmark?
+2500396825,CODEJIN,closed,2024-09-02 08:56:03+00:00,2024-09-02 11:54:35+00:00,Shared LayerNorm in TimesNet.
+2500159965,Chuan112233,closed,2024-09-02 06:57:57+00:00,2024-09-02 11:49:02+00:00,预测结果产生负值
+2496817932,koukouer,closed,2024-08-30 10:14:24+00:00,2024-08-31 03:29:26+00:00,TimeXer对未来可知变量的学习效果
+2496702343,Chuan112233,closed,2024-08-30 09:24:49+00:00,2024-08-30 09:36:21+00:00,预测准确率问题
+2496036025,holderhe,closed,2024-08-30 02:57:21+00:00,2024-09-11 13:21:12+00:00,AssertionError in LightTS for classification with some dataset
+2488274078,bbb801,closed,2024-08-27 04:54:56+00:00,2024-08-27 11:53:19+00:00,时间序列
+2486044077,wuzzeze,closed,2024-08-26 06:33:27+00:00,2024-08-26 07:18:01+00:00,初学者，请问对于多变量时间序列的分类任务，使用自己的数据集，应该怎么修改代码？
+2485338614,akkasayaz,closed,2024-08-25 15:39:42+00:00,2024-08-27 03:57:17+00:00,Update requirements.txt
+2482062408,xuo001,closed,2024-08-23 01:25:46+00:00,2024-08-23 02:38:00+00:00,有外生变量的单变量时序预测
+2480919844,xiao-donghu,closed,2024-08-22 14:20:05+00:00,2024-08-23 02:39:38+00:00,长期预测预测结果出现负数
+2480138553,Hawk0321,closed,2024-08-22 08:17:23+00:00,2024-08-23 04:38:17+00:00,augmentation.py 的Index out of range
+2477392107,YulingTian-YNU,closed,2024-08-21 08:16:55+00:00,2024-08-21 08:58:11+00:00,现在基于大模型的分析方法逐渐兴起，如Timer，LTSM-Bundle等，是否该纳入对比？
+2477258378,xiao-donghu,closed,2024-08-21 07:14:39+00:00,2024-08-21 08:55:21+00:00,关于获取最终预测结果
+2475897593,eltociear,closed,2024-08-20 15:08:53+00:00,2024-08-21 06:26:53+00:00,docs: update README.md
+2473434015,Gczmy,closed,2024-08-19 13:56:07+00:00,2024-08-20 03:16:24+00:00,"设置TimeMixer的seq_len=336, 512时ETTm1的结果不合理"
+2471323810,xiiaochuang,closed,2024-08-17 04:16:00+00:00,2024-08-18 15:17:43+00:00,exp_classification训练时是否是将测试集作为验证集？
+2469419871,Junyu-ucla,closed,2024-08-16 04:02:34+00:00,2024-08-16 07:28:36+00:00,Anomaly Detection特征重建，模型如果是全1不就可以完全重建输入了？
+2469240353,xiao-donghu,closed,2024-08-16 01:15:32+00:00,2024-08-18 12:43:15+00:00,关于逆变换问题
+2467726662,zhouzhq2021,closed,2024-08-15 09:28:08+00:00,2024-08-15 09:30:55+00:00,自定义数据集
+2466113840,xiao-donghu,closed,2024-08-14 14:59:23+00:00,2024-08-15 02:27:21+00:00,Imputation代码使用
+2465558178,xiao-donghu,closed,2024-08-14 11:17:28+00:00,2024-08-14 11:58:16+00:00,关于训练集，验证集，测试集的尺寸问题
+2462686538,Shangshi-Chen,closed,2024-08-13 08:07:02+00:00,2024-08-18 12:35:52+00:00,short term forecasting error
+2462314983,webbershaw,closed,2024-08-13 03:35:26+00:00,2024-08-13 05:02:05+00:00,Fix data_factory.py which will shuffle test dataset for classification tasks
+2460240000,sqhsysu17,closed,2024-08-12 07:27:54+00:00,2024-08-13 05:46:23+00:00,关于classification任务的seq_len和pred_len设定
+2460236047,keruiwu,closed,2024-08-12 07:25:32+00:00,2024-08-19 17:07:12+00:00,Classification exp Error & torch version Error
+2459818618,revv00,closed,2024-08-11 23:57:52+00:00,2024-08-15 02:41:01+00:00,ConvBlock: fix inception v2 kernel number to reslist size mapping
+2459498631,ArmandXiao,closed,2024-08-11 09:03:06+00:00,2024-08-21 02:12:36+00:00,Cannot reproduce the classification result of TimesNet
+2459487524,WinstonLiyt,closed,2024-08-11 08:32:25+00:00,2024-08-11 08:32:51+00:00,Update my custom data loader and the script for the Transformer model.
+2457381126,ChesonHuang,closed,2024-08-09 08:18:15+00:00,2024-08-12 11:14:42+00:00,短期预测model实例化问题
+2455335074,feifei05,closed,2024-08-08 09:35:51+00:00,2024-08-09 03:15:59+00:00,预测数据为什么和目标数据OT不一样？
+2454756026,xiao-donghu,closed,2024-08-08 02:43:29+00:00,2024-08-08 03:04:44+00:00,"When running imputation tasks ,it raise invalid size"
+2454751286,xiao-donghu,closed,2024-08-08 02:38:55+00:00,2024-08-08 02:41:42+00:00,"When  running imputation task by TimesNet, it raise size invalid"
+2453729541,feifei05,closed,2024-08-07 15:08:28+00:00,2024-08-08 04:38:27+00:00,初学者如何用自己的数据集训练吖？
+2450483236,holderhe,open,2024-08-06 10:06:46+00:00,,Add mWDN to the library
+2448307965,YWzzq,closed,2024-08-05 11:24:08+00:00,2024-08-08 03:02:09+00:00,分类任务运行报错
+2446898719,revv00,closed,2024-08-04 07:31:54+00:00,2024-08-08 04:34:36+00:00,"Not actually an issue, just a potential problem."
+2446320913,gyangyun,closed,2024-08-03 12:04:59+00:00,2024-08-03 12:06:47+00:00,add industry electricity data
+2446320834,gyangyun,closed,2024-08-03 12:04:47+00:00,2024-08-03 12:06:28+00:00,add industry electricity data
+2442179696,ChesonHuang,closed,2024-08-01 11:12:47+00:00,2024-08-06 06:45:37+00:00,短期的预测可以使用小波变换吗？
+2439432462,oschan77,closed,2024-07-31 08:19:56+00:00,2024-08-06 06:46:44+00:00,自己数据集的 TypeError: cannot unpack non-iterable NoneType object 问题
+2434980843,raiy236,closed,2024-07-29 09:57:50+00:00,2024-08-08 03:29:35+00:00,"set channel independence as '0', occur dimension error"
+2434324871,blacksnail789521,closed,2024-07-29 02:36:53+00:00,2024-07-29 03:13:25+00:00,use true - pred in M*E
+2429794783,Leeboom7,closed,2024-07-25 12:05:48+00:00,2024-07-25 20:52:18+00:00,如何做数据集以外的未来预测
+2428846783,Yewx0310,closed,2024-07-25 02:47:50+00:00,2024-07-25 20:51:36+00:00,请问能否进行多序列multiple series预测？
+2426522573,LiZhongcai,closed,2024-07-24 03:34:05+00:00,2024-07-26 09:04:15+00:00,运行run.py时出现下面的错误
+2426429504,realwangjiahao,closed,2024-07-24 01:58:47+00:00,2024-07-24 02:10:35+00:00,实验结果会放在哪个文件夹下面呢
+2425273256,blacksnail789521,closed,2024-07-23 13:49:08+00:00,2024-07-23 19:15:48+00:00,remove act and dropout for dlinear's classification
+2425006430,mauricekraus,closed,2024-07-23 11:48:36+00:00,2024-08-20 11:28:32+00:00,Fix Monthly split for M4 Comp
+2424745782,LeqiGu,closed,2024-07-23 09:43:15+00:00,2024-07-23 19:19:24+00:00,TimesNet中pred_len
+2424628226,RuojiWang,closed,2024-07-23 08:48:10+00:00,2024-07-23 19:21:17+00:00,how to solve ModuleNotFoundError: No module named 'mamba_ssm'
+2424524668,Chuan112233,closed,2024-07-23 07:56:07+00:00,2024-07-23 19:22:45+00:00,验证损失低于训练损失
+2423312413,shunai,closed,2024-07-22 16:44:44+00:00,2024-07-23 01:58:12+00:00,能否提供预测代码？
+2421180504,Uncle-George-13,closed,2024-07-21 02:34:12+00:00,2024-07-21 06:48:16+00:00,关于数据维度的问题
+2420730044,TianlinZhang668,closed,2024-07-20 08:32:14+00:00,2024-07-21 06:49:08+00:00,imputation的mask问题
+2418564225,QiSu77,closed,2024-07-19 10:21:07+00:00,2024-07-19 15:48:55+00:00,TimesNet's wrong code.
+2417993050,kukimika,closed,2024-07-19 05:53:28+00:00,2024-07-19 07:39:52+00:00,关于没有真实OT值的预测
+2416408711,qq1029337471,closed,2024-07-18 13:37:24+00:00,2024-07-23 19:23:27+00:00,关于 checkpoint
+2415077337,Uncle-George-13,closed,2024-07-18 02:31:39+00:00,2024-07-18 02:43:20+00:00,关于TIMEsnet异常检测SMD数据集的问题
+2414985250,TianlinZhang668,closed,2024-07-18 01:36:20+00:00,2024-07-18 02:37:35+00:00,How to inference prediction not test using iTransformer?
+2414029961,TianlinZhang668,closed,2024-07-17 16:16:35+00:00,2024-07-18 03:08:22+00:00,有关MS问题的解释
+2410655955,IKetchup,closed,2024-07-16 09:23:50+00:00,2024-07-17 00:49:44+00:00,Use my own dataset from multi-variate regression task
+2408698585,EVEREST-dlk,closed,2024-07-15 13:04:52+00:00,2024-07-15 13:09:15+00:00,看错了不好意思
+2406920779,liuquangao,closed,2024-07-13 13:21:29+00:00,2024-07-14 03:37:13+00:00,Update exp_long_term_forecasting.py
+2406161057,thawn,open,2024-07-12 18:49:28+00:00,,refactored into a python package
+2404787645,Et6an,closed,2024-07-12 05:31:16+00:00,2024-07-14 03:10:43+00:00,How to calculate flops or params?
+2402101221,666-will,closed,2024-07-11 02:39:09+00:00,2024-07-12 01:45:05+00:00,TimeXer是往因子挖掘上靠了吗
+2402070633,MarigoldDrift,closed,2024-07-11 02:13:34+00:00,2024-07-14 03:37:41+00:00,Error reshaping prediction shape
+2397038349,laowalter,closed,2024-07-09 03:42:23+00:00,2024-07-09 16:09:39+00:00,Dataset_Custom scaler user different data on  self.scaler.fit and scaler transform
+2394030352,longtylata,closed,2024-07-07 12:17:53+00:00,2024-07-07 12:20:30+00:00,Sorry
+2392947118,IanBluth,closed,2024-07-05 17:35:13+00:00,2024-07-14 11:28:19+00:00,TimeMixer Tensor Size Runtime Error
+2388448235,nizhenliang,closed,2024-07-03 12:00:07+00:00,2024-07-14 03:44:12+00:00,运行Nonstationary_Transformer报维度错误
+2387487872,DirectorZ1,closed,2024-07-03 02:14:58+00:00,2024-07-11 04:02:39+00:00,请问各位大佬，想用自己的数据训练，都需要修改什么呢？
+2387148116,AMilkov,closed,2024-07-02 20:54:45+00:00,2024-07-14 03:12:17+00:00,Classification with custom dataset - CSV file
+2383512681,kwuking,closed,2024-07-01 10:53:25+00:00,2024-07-01 13:20:18+00:00,Update TimeMixer to add analysis task of time series
+2381621654,yulinstudy,closed,2024-06-29 09:45:39+00:00,2024-06-29 10:29:56+00:00,ValueError: __len__() should return >= 0
+2377450909,lyzltysgithub,closed,2024-06-27 08:02:42+00:00,2024-06-27 14:21:38+00:00,请问能否进行多序列multiple series预测？
+2374099928,tribeband,closed,2024-06-26 03:21:39+00:00,2024-06-26 05:08:47+00:00,dataset - SWAT/MSL
+2369294511,YuboCoco,closed,2024-06-24 06:00:27+00:00,2024-06-24 08:04:32+00:00,请问timeXer的code会开源吗
+2363837763,yyqRua,closed,2024-06-20 08:23:29+00:00,2024-06-21 04:31:40+00:00,TimeMixer代码运行报错
+2363356375,YuMeng2v,open,2024-06-20 02:00:06+00:00,,Multi-GPU support
+2361450580,liaom5,closed,2024-06-19 06:37:30+00:00,2024-07-14 03:03:18+00:00,module 'torch.optim' has no attribute 'RAdam'
+2359672001,boringtomato,closed,2024-06-18 11:50:04+00:00,2024-06-18 12:46:20+00:00,将electricity换成自己的数据集，特征维度改变了，其他参数都没变，最终预测效果不好是为什么？
+2358743621,Ljw3336699,closed,2024-06-18 02:46:16+00:00,2024-07-14 03:11:32+00:00,The code cannot run
+2358631552,Flying7514,closed,2024-06-18 01:34:15+00:00,2024-06-18 02:09:39+00:00,Normalization from Non-stationary Transformer
+2355761767,deepcomp2023,closed,2024-06-16 13:13:48+00:00,2024-06-17 02:50:33+00:00,About the details of datasets
+2350894428,chenzehao82,closed,2024-06-13 11:25:36+00:00,2024-06-14 01:46:56+00:00,关于TimesNet的周期计算
+2345093784,warmful-sun,closed,2024-06-11 00:40:07+00:00,2024-06-11 09:18:29+00:00,更换自己数据集遇见的问题
+2343246837,warmful-sun,closed,2024-06-10 08:32:45+00:00,2024-06-14 01:47:34+00:00,尊敬的作者您好，我在short_term_forecast预测使用M4数据时遇到了这些问题：
+2332775355,isCopyman,closed,2024-06-04 07:33:23+00:00,2024-06-05 01:57:26+00:00,Are the methods currently implemented in the code repository not taking covariates into account?
+2330967738,dayu-chen,closed,2024-06-03 12:03:48+00:00,2024-06-03 13:26:38+00:00,异常检测的f1分数虚高太多
+2329780886,Ruifeng-Tan,closed,2024-06-02 17:31:50+00:00,2024-06-03 13:23:58+00:00,correct the normalization in PatchTST
+2327087691,ipe-zhangyz,closed,2024-05-31 06:49:57+00:00,2024-06-03 13:30:22+00:00,How does the model learn seasonal patterns?
+2322244220,calamityttc,closed,2024-05-29 02:49:48+00:00,2024-06-14 01:49:17+00:00,Unified hyperparameter in TimeMixer/Itransformer
+2321418982,houghtonweihu,closed,2024-05-28 15:52:46+00:00,2024-06-14 01:51:00+00:00,How to do anomaly detection using Mamba?
+2321061844,ztxtech,open,2024-05-28 13:23:33+00:00,,关于引入json格式的运行超参数
+2321037662,Musongwhk,closed,2024-05-28 13:12:54+00:00,2024-05-28 13:14:35+00:00,add TemporalFusionTransformer
+2320069334,ipe-zhangyz,closed,2024-05-28 03:55:32+00:00,2024-05-28 04:02:52+00:00,difference between long_term_forecasting and short_term_forecasting in this library
+2319378361,well0203,closed,2024-05-27 15:16:25+00:00,2024-05-28 04:04:43+00:00,PatchTST. No self-supervised?
+2318070229,gaoxuezhao,closed,2024-05-27 01:52:29+00:00,2024-05-27 09:08:25+00:00,closed 
+2317749228,LeqiGu,closed,2024-05-26 14:50:46+00:00,2024-06-03 13:32:31+00:00,dataloder的shuffle问题
+2316680278,LeqiGu,closed,2024-05-25 04:20:08+00:00,2024-05-26 13:29:49+00:00,模型重置权重问题
+2314101334,mononitogoswami,closed,2024-05-24 01:00:36+00:00,2024-07-14 12:03:00+00:00,Add MOMENT to the library
+2310579536,xinzhichao,closed,2024-05-22 13:42:33+00:00,2024-05-23 06:38:06+00:00,如何更改程序实现回归预测呢
+2310264668,calamityttc,closed,2024-05-22 11:15:30+00:00,2024-05-22 11:26:42+00:00,超参数搜索
+2309589890,bxdgl,closed,2024-05-22 05:15:00+00:00,2024-05-23 07:14:51+00:00,数据处理脚本
+2307451360,tjnkyqcy,closed,2024-05-21 06:41:54+00:00,2024-05-27 09:10:04+00:00,data_loader.py中的数据标准化问题
+2300204410,534145232,closed,2024-05-16 11:56:16+00:00,2024-07-14 04:34:39+00:00,Something wrong when I set the inverse as True
+2298618651,Glaadiss,closed,2024-05-15 18:55:15+00:00,2024-05-16 13:06:38+00:00,Pretrain on forecasting/imputation and finetune on classification
+2297820195,tibeler,closed,2024-05-15 12:47:43+00:00,2024-05-16 12:53:00+00:00,有人在windows上运行成功吗
+2296942605,xiaoanshi,closed,2024-05-15 06:06:07+00:00,2024-05-16 12:53:34+00:00,如何使用timesnet将多元时序变量预测为一个回归值
+2295692109,yyhljz,closed,2024-05-14 14:47:05+00:00,2024-05-16 12:59:12+00:00,如果我想学习weather这份数据，请问怎么传参呢？
+2292455513,Vincenzoee,closed,2024-05-13 10:42:41+00:00,2024-05-16 13:02:50+00:00,为什么多变量时序预测中挑选单变量进行预测
+2292047352,tibeler,closed,2024-05-13 07:27:38+00:00,2024-05-16 12:54:29+00:00,mamba_ssm必须要用linux系统啊，没法用
+2291698135,ztxtech,open,2024-05-13 02:57:37+00:00,,Add TEFN model
+2290593232,ipe-zhangyz,closed,2024-05-11 01:58:31+00:00,2024-05-16 13:05:17+00:00,einops 0.4.0 cause the error: ImportError: cannot import name 'einsum' from 'einops'
+2287223682,Jinshui-wang,closed,2024-05-09 08:56:36+00:00,2024-05-16 12:56:28+00:00,异常值检测问题
+2284986815,yuanshuaiLK,closed,2024-05-08 08:17:38+00:00,2024-05-16 12:55:44+00:00,请教一些数据集和batch相关问题
+2284482869,Alamoooooooo,closed,2024-05-08 01:18:38+00:00,2024-05-16 12:58:37+00:00,在使用单变量天频时间序列数据进行预测时，应该如何学习节假日特征？
+2280882609,GrigoriiTarasov,closed,2024-05-06 13:26:26+00:00,2024-05-06 19:31:04+00:00,fixed model_name to FEDformer in ECL_script
+2280862493,GrigoriiTarasov,closed,2024-05-06 13:16:26+00:00,2024-05-06 19:31:05+00:00,No such model 'Fedformer' during scripts/long_term_forecast/ECL_script/FEDformer.sh
+2280014187,lizhuoq,closed,2024-05-06 04:38:26+00:00,2024-05-06 19:31:39+00:00,Remove redundant code from data_factory.py
+2278881563,chenyufeifei,closed,2024-05-04 09:24:19+00:00,2024-05-16 13:04:13+00:00,为什么训练时对预测结果进行逆变换会比不对预测结果进行逆变换的结果要更好。
+2272964551,well0203,closed,2024-05-01 05:32:17+00:00,2024-05-02 06:40:01+00:00,Train Loss is higher than Validation and Test Loss
+2267942164,YuboCoco,closed,2024-04-29 01:19:12+00:00,2024-05-02 06:32:42+00:00,请问同时考虑回归和时序该如何做？
+2267500995,johnny890122,open,2024-04-28 11:38:56+00:00,,fetch the latest commit
+2267053033,BorgDiven,closed,2024-04-27 15:02:44+00:00,2024-05-02 06:34:30+00:00,Guidance on Setting Parameters for Univariate Time Series Prediction
+2267003029,erickmiller,closed,2024-04-27 12:51:59+00:00,2024-05-19 09:17:15+00:00,Multivariate regression missing from benchmark
+2265340735,DigitalLifeYZQiu,closed,2024-04-26 09:18:46+00:00,2024-04-26 09:21:10+00:00,Augmentation code base for Time-Series-Library
+2263154581,bby2000,closed,2024-04-25 09:46:42+00:00,2024-04-26 04:40:40+00:00,exp_short_forecasting
+2259995204,MohidulHaqueTushar,closed,2024-04-24 00:27:35+00:00,2024-04-24 08:21:17+00:00,Will there be a tutorial for Autoformer?
+2254338256,chengsaf,closed,2024-04-20 02:48:34+00:00,2024-04-21 06:38:55+00:00,time series diagram
+2254334641,listview998,closed,2024-04-20 02:36:45+00:00,2024-05-06 07:57:34+00:00,Dimension issue encountered during TimeMixer training  
+2249647202,kirito5206,closed,2024-04-18 03:11:39+00:00,2024-04-18 14:48:07+00:00,KeyError: 'frequency_map' 
+2246233882,edwardhuanghz,closed,2024-04-16 14:39:41+00:00,2024-07-14 03:59:04+00:00,"env error:Could not build wheels for mamba_ssm, which is required to install pyproject.toml-based projects**"
+2245875816,534145232,closed,2024-04-16 12:05:31+00:00,2024-04-18 14:49:34+00:00,关于autoformer的embedding方式
+2245601533,GBX-Engineer,closed,2024-04-16 09:41:07+00:00,2024-04-18 14:44:17+00:00,在短期时序预测M4数据集上发生问题如下问题：1）在预测小时的m4数据集时发生错误，需要修改h=4到h=1才能运行，不知道这样操作是否正确？2）训练集的误差极大，收敛速度很满，且提早early_stopping，不知道是什么问题呢？
+2245241384,silent780,closed,2024-04-16 06:42:42+00:00,2024-04-18 14:45:55+00:00,异常检测中test函数中为什么要用到adjustment函数？
+2238857084,erickmiller,closed,2024-04-12 01:18:31+00:00,2024-04-19 08:36:55+00:00,samformer
+2235520607,badfish2019,closed,2024-04-10 12:49:13+00:00,2024-05-19 09:18:10+00:00,短时序预测发生问题
+2233439694,rezanematirad,closed,2024-04-09 13:26:03+00:00,2024-04-18 14:56:53+00:00,"Long term forecasting, Input shape to FFT"
+2232795055,feng1201,closed,2024-04-09 07:32:30+00:00,2024-07-14 04:06:56+00:00,在执行exp_long_term_forecasting第122行时遇到维度不匹配
+2225526877,frecklebars,closed,2024-04-04 13:29:09+00:00,2024-04-04 15:05:22+00:00,Added Mamba models implementation for forecasting tasks
+2224623384,LeqiGu,closed,2024-04-04 06:40:16+00:00,2024-04-09 02:08:13+00:00,freq_map
+2224259301,HowardZJU,closed,2024-04-04 01:45:56+00:00,2024-06-23 08:27:33+00:00,How to raise a PR with loss function update?
+2221841692,LeqiGu,closed,2024-04-03 04:03:47+00:00,2024-04-03 09:58:57+00:00,TimesNet Batch输入问题
+2219660061,ForestR,closed,2024-04-02 06:25:30+00:00,2024-04-02 17:50:26+00:00,Confusion in the contents of the Leaderboard from `thuml`
+2217851788,Kivirrr,closed,2024-04-01 08:53:29+00:00,2024-04-01 08:57:15+00:00,您好，我想请教一下在时间序列预测中的真实样本外预测问题！
+2217348684,ouyuan416,closed,2024-04-01 02:02:26+00:00,2024-04-01 08:58:49+00:00,一些问题请教
+2215124624,lss-1138,closed,2024-03-29 10:57:58+00:00,2024-04-01 09:04:40+00:00,Add SegRNN Code
+2212586273,kwuking,closed,2024-03-28 07:56:34+00:00,2024-03-28 08:25:16+00:00,add TimeMixer and TSMixer
+2210194729,caocaort,closed,2024-03-27 08:42:09+00:00,2024-03-28 13:06:51+00:00,"For the task of anomaly detection, there is a problem with the “detection adjustment” method."
+2210187047,Joseph410144,closed,2024-03-27 08:39:34+00:00,2024-03-28 13:13:19+00:00,TimesNet Model: The use of softmax for adaptive aggregation can lead to overflow issues.
+2209570040,GGchen1997,closed,2024-03-27 00:16:19+00:00,2024-03-28 13:19:14+00:00, Validation and Test
+2205200640,ZHE0725,closed,2024-03-25 08:44:35+00:00,2024-03-28 13:21:07+00:00,关于维度重构问题
+2204641445,sshen-2004,closed,2024-03-25 00:23:12+00:00,2024-03-28 13:23:06+00:00,TimesNet incompatible weight shape vs. input shape 
+2200751676,bsshor,closed,2024-03-21 17:15:16+00:00,2024-03-23 02:47:37+00:00,exp_classification里，所有的flag赋值用的都是大写字母的问题
+2197537810,herkerser,closed,2024-03-20 13:28:43+00:00,2024-03-23 02:53:30+00:00,About Data Leakage in FFT_for_Period
+2196725052,chengsaf,closed,2024-03-20 06:02:20+00:00,2024-03-23 02:56:40+00:00,hyperparameter
+2183442595,morestart,closed,2024-03-13 08:54:48+00:00,2024-03-23 03:00:39+00:00,TimesNet
+2182987056,liyiersan,closed,2024-03-13 02:19:32+00:00,2024-03-13 02:59:58+00:00,fix bugs in imputation for MS
+2181425702,SmallCatShark,closed,2024-03-12 11:51:26+00:00,2024-03-12 13:54:24+00:00,作者大大，请教一个问题
+2180601759,johnny890122,closed,2024-03-12 02:36:19+00:00,2024-03-12 02:39:59+00:00,Test/wandb
+2178485475,liyiersan,closed,2024-03-11 08:05:16+00:00,2024-03-12 06:03:30+00:00,Questions about imputation in TimesNet
+2178417124,liyiersan,closed,2024-03-11 07:30:20+00:00,2024-03-13 03:00:11+00:00,bugs in exp_imputation.py
+2176982035,hlming09,closed,2024-03-09 01:06:54+00:00,2024-03-09 06:21:09+00:00,AttributeError: Can't pickle local object 'data_provider.<locals>.<lambda>'
+2174322442,yfprime,closed,2024-03-07 16:56:42+00:00,2024-03-07 17:07:34+00:00,How to set seasonal_patterns to seconds?
+2174054952,ownnaruto,closed,2024-03-07 14:55:17+00:00,2024-03-08 11:39:43+00:00,batch size
+2170545190,Wodsk,closed,2024-03-06 03:21:29+00:00,2024-03-06 08:15:55+00:00,时序序列表征学习
+2170514411,lizhuoq,closed,2024-03-06 02:43:17+00:00,2024-03-06 08:17:22+00:00,关于imputation的mask_rate的问题
+2168922822,suojifeng,closed,2024-03-05 11:07:30+00:00,2024-03-06 08:18:47+00:00,多元时序数据分类问题
+2166412026,yunchuan18,closed,2024-03-04 09:47:10+00:00,2024-03-04 12:56:23+00:00,训练好的模型如何导出ONNX格式，部署到java？
+2165758871,potoyeee,closed,2024-03-04 02:03:36+00:00,2024-03-04 12:52:48+00:00,您好，请问会添加《TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables》吗？非常感谢你们团队在时序方面的工作，TimeXer对实际的预测工作可能嗯有帮助。
+2163200850,lss-1138,closed,2024-03-01 11:28:17+00:00,2024-03-28 13:28:37+00:00,Proposal: Adding SegRNN Code to the Library
+2161229751,XingYuan1013,closed,2024-02-29 13:13:13+00:00,2024-03-04 12:53:10+00:00,关于不同CV模块的实验代码
+2160905485,elenamanth,closed,2024-02-29 10:18:18+00:00,2024-03-28 13:24:28+00:00,Predictions in unseen data using TimesNet
+2158125371,AcrazyQ,closed,2024-02-28 05:11:55+00:00,2024-02-29 05:20:19+00:00,多变量预测多变量能否指定多列预测目标
+2156738727,ajati,closed,2024-02-27 14:27:04+00:00,2024-03-28 13:29:04+00:00,Add PatchTSMixer to the leaderboard/library
+2152828737,elisim,closed,2024-02-25 16:01:57+00:00,2024-02-29 05:21:12+00:00,overall visualization code 
+2148104423,kavinwow100,closed,2024-02-22 03:24:06+00:00,2024-07-14 02:59:34+00:00,预测结果和真实值发生偏移问题
+2146487099,ztxtech,closed,2024-02-21 11:13:11+00:00,2024-05-13 02:41:09+00:00,Add a conventor from running script to json
+2146474156,ztxtech,closed,2024-02-21 11:05:54+00:00,2024-03-28 13:42:26+00:00,'scripts/imputation/ETT_script/MICN_ETTh1.sh'中出现了未解析的args '--conv_kernel'
+2143629816,hope-redemption,closed,2024-02-20 06:25:36+00:00,2024-06-14 01:55:14+00:00,problem with running classification problem about TimesNet
+2142698453,Gczmy,closed,2024-02-19 16:00:05+00:00,2024-02-20 03:35:30+00:00,Weather数据集结果无法复现
+2137947018,hope-redemption,closed,2024-02-16 06:17:41+00:00,2024-02-18 11:13:59+00:00,An inquiry about TimesNet
+2137876891,loveoftheai,closed,2024-02-16 05:00:04+00:00,2024-05-27 09:12:38+00:00,Add TimesFM to the library
+2136680588,LeSimo,closed,2024-02-15 14:30:50+00:00,2024-02-18 11:25:26+00:00,Clarifications on exp_anomaly_detections.py
+2136513382,lzrbit,closed,2024-02-15 13:23:44+00:00,2024-02-18 11:26:31+00:00,Question about TimesNet
+2133439177,chengsaf,closed,2024-02-14 02:27:15+00:00,2024-02-17 09:05:57+00:00,About the parameters features and target in the code
+2114456237,moehmeni,closed,2024-02-02 09:13:01+00:00,2024-02-18 11:27:45+00:00,Add the new models to leaderboard
+2112005395,ooooooover,closed,2024-02-01 09:30:12+00:00,2024-02-04 02:41:20+00:00,为什么认为将所有的seq_len设置为96是一种公平的表现
+2099239106,huytran088,closed,2024-01-24 22:43:54+00:00,2024-02-18 11:30:24+00:00,How to feed my sensor dataset into the TimesNet model for classification task
+2096120741,qiu69,closed,2024-01-23 13:41:01+00:00,2024-02-04 02:43:46+00:00,May I ask if the anomaly detection methods implemented in tslib need to be classified? Are they based on forecasting or reconstruction?
+2093236792,chenrui-wu,closed,2024-01-22 07:08:53+00:00,2024-02-04 02:45:50+00:00,"Would you mind add ""One Fits All: Power General Time Series Analysis by Pretrained LM“"
+2091803275,ashpoolresearch,closed,2024-01-20 01:49:44+00:00,2024-04-18 14:51:51+00:00,CPU-heavy operation slowing training
+2088888608,Quantbrinx,closed,2024-01-18 19:03:50+00:00,2024-04-18 14:59:46+00:00,Error in Timesnet Short term Forecasting Model Training (modelConfig)
+2087855175,XDAntenna,closed,2024-01-18 09:19:49+00:00,2024-01-18 15:26:13+00:00,multivariable test results
+2086306598,myflash163,closed,2024-01-17 14:24:56+00:00,2024-07-14 10:07:33+00:00,分类实验结果无法复现
+2079217715,ZinebSN,closed,2024-01-12 16:20:57+00:00,2024-01-17 16:55:16+00:00,Non-overlapping sliding window for anomaly detection experiments
+2076737707,zzwzz1998,closed,2024-01-11 14:00:30+00:00,2024-09-11 09:43:43+00:00,add SCINet into baseline
+2069709067,WenWeiTHU,closed,2024-01-08 05:31:48+00:00,2024-01-08 05:34:19+00:00,fix KPLayer in Koopa.py
+2065013852,yanghu819,closed,2024-01-04 05:15:24+00:00,2024-01-04 05:21:15+00:00,无法复现结果，用了torch1.7.1也一样不行
+2062762608,ChuckTG,closed,2024-01-02 18:01:06+00:00,2024-01-03 15:26:50+00:00,Add FreTS model
+2061095346,toby911,closed,2023-12-31 15:33:23+00:00,2024-01-01 08:43:04+00:00,"想问一下为什么我自己的数据 只有两列,会出现Nan这种情况"
+2059177334,jack4python,closed,2023-12-29 08:03:36+00:00,2024-01-01 08:45:17+00:00,Insufficient GPU memory for the long term forecast task
+2059004033,xiaoxiaomiwang,closed,2023-12-29 02:23:22+00:00,2024-02-19 07:39:19+00:00,Something wrong on short_term_forecast
+2056362071,ajikmr,closed,2023-12-26 12:21:32+00:00,2023-12-27 07:34:17+00:00,Koopa module - seg_len parmeter
+2056323856,ajikmr,closed,2023-12-26 11:31:13+00:00,2024-06-14 01:53:25+00:00,Koopa module - torch.linalg.lstsq call
+2055420091,luwanrong,closed,2023-12-25 06:18:42+00:00,2023-12-27 07:37:27+00:00,关于开源代码和论文实验结果复现问题
+2054807601,Hank0626,closed,2023-12-23 14:42:34+00:00,2023-12-24 12:48:36+00:00,How to obtain PEMS and Solar-Energy datasets in iTransformer
+2053539145,Songyihu,closed,2023-12-22 08:02:22+00:00,2023-12-24 12:51:23+00:00,TimeSeries classification task
+2045641866,Diroooomy,closed,2023-12-18 03:03:58+00:00,2023-12-18 05:40:25+00:00,论文中其他SOTA方法的数据来源
+2040754348,CSyyn,closed,2023-12-14 01:47:04+00:00,2023-12-15 02:30:38+00:00,关于NSTransformer ECL scripts
+2039694554,yyqRua,closed,2023-12-13 13:16:49+00:00,2023-12-14 02:59:53+00:00,进行long term forecasting，设置features参数为MS时，target参数无法正确选中目标数据列
+2038908808,ipsum-0320,closed,2023-12-13 04:02:09+00:00,2023-12-13 08:16:42+00:00,About num of TimesBlock
+2037253626,Jackson906E,closed,2023-12-12 08:39:22+00:00,2023-12-13 08:51:06+00:00,The problem of reproduction of model results
+2035508201,Zh-XY22,closed,2023-12-11 11:55:09+00:00,2023-12-11 12:19:12+00:00,TimesNet的predict_linear
+2032392393,lovechang1986,closed,2023-12-08 10:27:31+00:00,2023-12-10 13:15:42+00:00,关于时间序列分类
+2031416676,goutianrui,closed,2023-12-07 19:48:31+00:00,2023-12-13 08:46:27+00:00,有关使用自己数据进行训练时发生TypeError报错
+2029806750,xuliangxd,closed,2023-12-07 03:23:04+00:00,2023-12-07 15:20:17+00:00,运行时间问题
+2028287236,591343,closed,2023-12-06 11:01:31+00:00,2023-12-07 15:21:10+00:00,classification task
+2027995038,kirathes,closed,2023-12-06 08:21:54+00:00,2023-12-13 08:40:55+00:00,'FileNotFoundError': 运行short-term预测的Nonstationary_Transformer_M4.sh报错
+2024996882,jianzuo,closed,2023-12-04 23:40:00+00:00,2023-12-13 08:44:32+00:00,"Can we have implementation demos for some basic DL models, such as MLP, LSTM, GRU?"
+2023794822,Mico3o,closed,2023-12-04 12:54:52+00:00,2023-12-05 03:49:25+00:00,Update README.md
+2023560315,Guanyunlph,closed,2023-12-04 10:48:19+00:00,2023-12-04 12:02:43+00:00,训练更多的轮数和更久，结果并不会更好，但模型显然没有拟合的问题
+2023119236,cbergmeir,closed,2023-12-04 06:23:50+00:00,2023-12-04 06:58:00+00:00,Comparison with results from original M4 participants?
+2022274962,zhoujs93,closed,2023-12-03 01:01:08+00:00,2023-12-03 02:47:53+00:00,Training taking a very long time 
+2021123507,hughxx,closed,2023-12-01 15:41:23+00:00,2023-12-02 02:45:42+00:00,iTransformer中的PEMS03数据集应该如何使用
+2020787898,Neehan,closed,2023-12-01 12:28:07+00:00,2023-12-03 03:00:21+00:00,Cannot Reproduce iTransformer performance on the ETT dataset
+2019979794,FarahSaeed,closed,2023-12-01 03:24:48+00:00,2023-12-13 08:48:55+00:00,Running long term forecasting on custom data
+2019874662,HuntZhaozq,closed,2023-12-01 01:41:31+00:00,2023-12-01 03:18:27+00:00,模型部署
+2017896254,hughxx,closed,2023-11-30 05:20:38+00:00,2023-11-30 06:09:23+00:00,库中PatchTST与PatchTST原生代码差距过大，包括训练代码和模型代码
+2016013755,kirathes,closed,2023-11-29 07:53:13+00:00,2023-11-30 06:09:33+00:00,"When the sh command finished, no print of the metric result: smape, mape,etc. (short-term训练结束之后没有打印smape, mape等评价指标的结果)"
+2015906234,JiangtaoLiud,closed,2023-11-29 06:27:27+00:00,2023-11-29 08:26:56+00:00,provide LSTM code
+2012372016,Diroooomy,closed,2023-11-27 14:13:31+00:00,2023-11-30 06:09:53+00:00,About the metrics of iTransformer in long-term forecasting task.
+2012020755,hughxx,closed,2023-11-27 11:00:36+00:00,2023-11-27 11:45:32+00:00,itransformer，weather数据集复现精度异常
+2011553323,erikalien5595,closed,2023-11-27 06:09:53+00:00,2023-11-27 07:29:06+00:00,Market数据集问题
+2011057680,yycyyyc321,closed,2023-11-26 14:12:37+00:00,2023-11-27 06:00:24+00:00,部分模型的参考文献，翻墙了都无法下载
+2009457282,david-95,closed,2023-11-24 10:11:15+00:00,2023-11-26 09:30:12+00:00,Is  .ts file in dataset be aeon ts format?  how to convert to .ts from .csv file ?
+2008326308,Diroooomy,closed,2023-11-23 14:20:50+00:00,2023-11-24 03:52:24+00:00,关于Scripts中各模型的运行脚本文件
+2006663794,ptsialis,closed,2023-11-22 16:04:10+00:00,2023-11-23 02:02:37+00:00,Datasets and VRAM
+2005594088,jdleaverton,closed,2023-11-22 05:18:48+00:00,2023-11-22 12:45:06+00:00,Format console args print for readability
+2004410805,jurij-ch,closed,2023-11-21 14:28:41+00:00,2023-11-22 12:52:18+00:00,[bug-fix] Values of args are not actual while printing in console.
+2004175321,jurij-ch,closed,2023-11-21 12:25:12+00:00,2023-11-21 14:24:06+00:00,[bug-fix] Values of args are not actual while printing in console.
+1997268802,eepishin,closed,2023-11-16 16:33:26+00:00,2023-11-22 10:42:18+00:00,M4 training scripts are not repoducible
+1990203059,zfbz,closed,2023-11-13 09:10:33+00:00,2023-11-13 12:43:58+00:00,TimesNet 论文中报告的结果具体是怎么计算的
+1987467533,liujian123223,closed,2023-11-10 11:43:21+00:00,2023-11-11 04:17:52+00:00,FEDformer中的MOEDecomp分解模块没有使用？
+1986682551,FarahSaeed,closed,2023-11-10 01:32:09+00:00,2023-11-10 03:37:27+00:00,Error related to conv_kernel in MiCN ILI_script 
+1986423547,Gczmy,closed,2023-11-09 21:23:24+00:00,2023-11-10 03:32:55+00:00,长时预测时，预测结果与真实值相比有偏移的现象
+1984747751,NEUCMD,closed,2023-11-09 03:22:42+00:00,2023-11-09 03:47:21+00:00,Why test_loader use batchsize=1
+1983133794,jianlaigeng,closed,2023-11-08 09:23:30+00:00,2023-11-08 10:46:33+00:00,寻找周期的问题
+1983020958,ZF1Huang,closed,2023-11-08 08:28:40+00:00,2023-11-08 10:50:09+00:00,informer在Anomaly Detection任务上的排名问题
+1982790065,maheshyadav007,closed,2023-11-08 05:42:27+00:00,2023-11-08 10:44:57+00:00,Problem in FFT_for_Period(...) in TimesNet.py
+1982006903,blackvvine,closed,2023-11-07 18:48:06+00:00,2024-06-14 01:52:52+00:00,Support Temporal Fusion Transformer
+1977096704,Lindanhan,closed,2023-11-04 01:21:26+00:00,2023-11-05 11:18:29+00:00,What if target is not in features?
+1974049176,Vector-Cross,closed,2023-11-02 11:29:23+00:00,2023-11-03 05:34:13+00:00,大神们效果咋样，为啥我的效果都不咋地，难道是我 pytorch 版本2.1.0导致的
+1973430066,Conliq,closed,2023-11-02 03:17:20+00:00,2023-11-02 05:45:50+00:00,"fft function no attribute ""rfft"" and ""rfftfreq"""
+1973426575,jiengup,open,2023-11-02 03:12:49+00:00,,[bug-fix] TimeFeatureEmbedding KeyError with detailed freq arg.
+1973342471,weituo2002,closed,2023-11-02 01:27:12+00:00,2024-02-04 02:47:13+00:00,是否能够将谷歌的与Transformer模型对比的TSMixer: An all-MLP architecture for time series forecasting 模型纳入本库中呢？
+1970789145,Techuuu,closed,2023-10-31 15:57:13+00:00,2023-11-01 03:13:30+00:00,Update README.md
+1970318832,carlosg-m,closed,2023-10-31 12:07:22+00:00,2023-10-31 13:05:43+00:00,Train script example
+1969731807,maohaotiancs,closed,2023-10-31 06:24:57+00:00,2023-10-31 06:34:21+00:00,关于论文中的Variate generalization实验
+1967713903,gauridargar,closed,2023-10-30 07:47:41+00:00,2023-10-30 10:44:59+00:00,backward prediction issue
+1967346096,hhr114,closed,2023-10-30 02:28:04+00:00,2023-10-30 03:58:52+00:00,Koopa的预测效果
+1967226759,Gczmy,closed,2023-10-29 23:59:05+00:00,2023-10-30 13:06:34+00:00,"long_term_forecast, feature='MS', 使用inverse_transform方法时报错。"
+1967052772,PentesterPriyanshu,closed,2023-10-29 16:13:44+00:00,2023-10-29 17:14:50+00:00,Create .gitpod.yml
+1966990813,jianlaigeng,closed,2023-10-29 13:26:44+00:00,2023-10-29 14:52:18+00:00,.ts数据集问题
+1966962655,mohitd404,closed,2023-10-29 12:05:23+00:00,2023-10-29 14:49:11+00:00,Updated Contributors Section
+1966961207,mohitd404,closed,2023-10-29 12:01:02+00:00,2023-10-29 14:49:12+00:00,Adding Contributors section to the readme.md 
+1966841914,haolong114,closed,2023-10-29 04:39:19+00:00,2023-10-29 14:51:34+00:00,多显卡运行
+1966831730,ammtjm,closed,2023-10-29 03:46:11+00:00,2023-10-29 11:14:52+00:00,Misspelled path name?
+1966379086,qiu69,closed,2023-10-28 02:46:48+00:00,2023-10-28 11:35:27+00:00,超参数问题
+1965410167,ipsum-0320,closed,2023-10-27 12:17:35+00:00,2023-10-27 15:03:27+00:00,在 exp_long_term_forecasting.py 中的 test 方法中，参数 label_len 是不是在预测过程中没有起到作用？
+1965354396,Braysoft,closed,2023-10-27 11:48:02+00:00,2023-10-27 15:04:32+00:00,ML.TimeSeries nuget packages cause WACK (Windows App Cert Kit) fail on release build
+1964827001,lichenyu20,closed,2023-10-27 06:04:16+00:00,2023-10-27 06:29:11+00:00,add Koopa
+1964822903,lichenyu20,closed,2023-10-27 06:00:15+00:00,2023-10-27 06:02:07+00:00,add Koopa
+1964725612,Conliq,closed,2023-10-27 04:04:05+00:00,2023-10-27 06:28:21+00:00,貌似卡住了
+1963409235,Kiyi-Lee,closed,2023-10-26 12:08:31+00:00,2023-10-26 16:11:12+00:00,The selection of the pred_len parameter in classification tasks
+1962874148,CSyyn,closed,2023-10-26 07:20:20+00:00,2023-10-27 06:33:29+00:00,could you please add Koopa model  
+1961907894,RS-labhub,closed,2023-10-25 17:33:00+00:00,2023-10-26 03:37:36+00:00,README.md
+1960487500,Kris248,open,2023-10-25 04:03:01+00:00,,Added code of conduct file.
+1959914667,willxxy,closed,2023-10-24 19:14:27+00:00,2023-11-22 10:38:30+00:00,Long-term Forecasting with TiDE: Time-series Dense Encoder
+1958572502,jexterliangsufe,closed,2023-10-24 05:58:59+00:00,2023-10-24 07:26:04+00:00,Practical time series problems in industry
+1957839981,harshhere905,closed,2023-10-23 19:03:30+00:00,2023-10-24 12:55:06+00:00,Update README.md
+1957333274,romitp4l,closed,2023-10-23 14:38:14+00:00,2023-10-23 16:51:05+00:00,added a missing CODE OF CONDUCT file 
+1957191192,bhargavshirin,closed,2023-10-23 13:35:50+00:00,2023-10-23 14:16:13+00:00,added full_stops
+1955759370,Shivam250702,closed,2023-10-22 04:46:21+00:00,2023-10-22 09:06:23+00:00,Update README.md
+1955758456,ayushrakesh,closed,2023-10-22 04:41:31+00:00,2023-10-22 09:10:55+00:00,Update README.md - Fixed a Grammar bug in README.md file.
+1955757081,soulZhaoL,closed,2023-10-22 04:34:47+00:00,2023-10-23 03:57:22+00:00,关于分类任务的疑问
+1955741215,alienishi,closed,2023-10-22 03:16:04+00:00,2023-10-22 09:13:33+00:00,docs: Corrected minute grammatical errors in README.md
+1955619875,0Armaan025,closed,2023-10-21 18:38:35+00:00,2024-08-15 03:08:53+00:00,Made CONTRIBUTING.md
+1955551089,flydragon2018,closed,2023-10-21 16:02:51+00:00,2023-10-21 16:06:28+00:00,python version
+1955488937,ShikhaKumari01,closed,2023-10-21 13:15:03+00:00,2023-10-22 09:10:16+00:00,Create tic_tac_toe.cpp
+1955488784,shresthasurav,closed,2023-10-21 13:14:38+00:00,2023-10-22 09:08:30+00:00,docs: fix and improve content in tutorial/TimesNet_tutorial.ipynb
+1955488061,FarukhS52,closed,2023-10-21 13:12:53+00:00,2023-10-22 09:10:39+00:00,Fixed Typos and grammar issues in Readme.md
+1955422917,eltociear,closed,2023-10-21 10:16:02+00:00,2023-10-21 11:20:50+00:00,Fix typo in README.md
+1953821953,lqf0624,closed,2023-10-20 08:44:45+00:00,2023-10-23 03:58:37+00:00,关于long-term 任务中的M Feature
+1953398791,zfbz,closed,2023-10-20 02:40:03+00:00,2023-10-23 04:01:27+00:00,imputation 任务中标准化和 mask 的顺序问题
+1952330868,lartpang,closed,2023-10-19 13:55:18+00:00,2023-10-23 04:02:15+00:00,How do you draw the nice radar graph in the paper iTransformer?
+1951092488,yichenwang231,closed,2023-10-19 02:49:59+00:00,2024-07-14 10:17:51+00:00,Questions about evaluating metric ACC
+1949190370,hhr114,closed,2023-10-18 08:38:27+00:00,2023-10-19 08:06:58+00:00,Koopa request!
+1949149452,mambasmile,closed,2023-10-18 08:17:50+00:00,2023-10-19 07:15:25+00:00,如何获取预处理后的m4数据集，原链接已失效
+1945479939,ChuckTG,closed,2023-10-16 15:15:22+00:00,2023-10-17 01:58:25+00:00,Update iTransformer_ETTh2.sh to match the dims of ETT dataset
+1943887764,somaonishi,closed,2023-10-15 13:22:13+00:00,2023-10-15 14:57:18+00:00,Why use CorrAttention in iTransformer?
+1943700984,jerrywn121,closed,2023-10-15 04:18:09+00:00,2023-10-15 11:25:16+00:00,How is the model performance evaluated?
+1939515637,JieDengsc,closed,2023-10-12 08:48:42+00:00,2023-10-16 03:34:03+00:00,inverse_transform修改后仍然存在问题
+1939090982,MeB4You,closed,2023-10-12 03:04:18+00:00,2023-10-13 06:01:22+00:00,New baseline
+1937779939,Kiyi-Lee,closed,2023-10-11 13:25:50+00:00,2023-10-13 06:12:38+00:00,关于分类任务.ts格式数据集问题
+1936630695,hnczj,closed,2023-10-11 02:01:49+00:00,2023-10-11 02:29:33+00:00,"period = x.shape[1] // top_list   top_list里边是frequency的 index,请问这里用时序长度/index，为何得到的是周期？？？如果/frequency似乎更容易理解，期待回复，非常感谢！"
+1931919807,khairulislam,closed,2023-10-08 16:57:56+00:00,2023-10-24 04:29:23+00:00,Attention heads support hardcoded to size 8 in FEDformer
+1931233944,Aaronhuang-778,closed,2023-10-07 07:22:27+00:00,2023-10-08 03:12:26+00:00,Transformer structure
+1928464791,linfeng-du,closed,2023-10-05 14:38:49+00:00,2023-10-07 06:40:18+00:00,Data leakage in the M4 experiments
+1925632005,Pupuliu,closed,2023-10-04 08:02:16+00:00,2023-10-05 11:39:34+00:00,关于TypeError: 'NoneType' object is not subscriptable
+1924367167,lovechang1986,closed,2023-10-03 15:12:56+00:00,2023-10-05 11:38:12+00:00,时序预测应用问题咨询？
+1924363165,lovechang1986,closed,2023-10-03 15:10:47+00:00,2023-10-05 11:40:51+00:00,Docker文件环境配置
+1924121413,fengqsam,closed,2023-10-03 13:09:48+00:00,2023-10-05 11:41:30+00:00,About LSTM on your paper 
+1918039037,linfeng-du,closed,2023-09-28 18:13:44+00:00,2023-10-23 04:06:46+00:00,Softmax not suitable for normalizing the amplitudes
+1914572358,civilengineeringdoghelpme,closed,2023-09-27 02:24:02+00:00,2023-09-28 06:51:29+00:00,请问layers是什么库呢？该如何导入
+1914253428,ramankhurana,closed,2023-09-26 20:29:57+00:00,2023-10-23 04:07:53+00:00,too many open files 
+1913917445,pohlchri,closed,2023-09-26 16:47:49+00:00,2023-10-01 12:29:21+00:00,Quick question regarding the embed arg
+1912166200,pohlchri,closed,2023-09-25 19:39:27+00:00,2023-09-26 16:59:58+00:00,Inverse of the results in preds and trues
+1911989284,lsl0000,closed,2023-09-25 17:37:19+00:00,2023-09-28 06:52:00+00:00,无法获取 preds.npy 和 trues.npy 去规范化的数据。
+1910993819,TMullerSG,closed,2023-09-25 08:48:42+00:00,2023-09-30 14:48:13+00:00,how to add future covariants to timesnet?
+1908224307,rdyan0053,closed,2023-09-22 05:50:10+00:00,2023-09-30 14:50:06+00:00,Confusion about padding in the classification task 
+1908152114,alifa98,closed,2023-09-22 04:14:54+00:00,2023-10-13 06:07:33+00:00,TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
+1904543894,jason51108,closed,2023-09-20 09:09:36+00:00,2023-10-05 11:42:07+00:00,关于依赖版本不对的问题
+1904506890,pohlchri,closed,2023-09-20 08:52:03+00:00,2023-09-24 19:07:48+00:00,Visualization prediction vs. actual
+1904371908,TMullerSG,closed,2023-09-20 07:43:40+00:00,2023-12-13 08:46:53+00:00,MS feature not availabel for some models like autoformer
+1902809051,zfbz,closed,2023-09-19 11:54:14+00:00,2023-09-20 04:03:09+00:00,TimesNet 时间序列分类复现结果与论文结果差异
+1901900678,cenggokhan,closed,2023-09-18 23:26:20+00:00,2023-09-20 04:04:38+00:00,args.freq question
+1901128731,qinmoelei,closed,2023-09-18 14:56:08+00:00,2023-09-19 12:40:28+00:00,Problem regarding the implementation for basic self attention
+1900496777,lsl0000,closed,2023-09-18 09:09:54+00:00,2023-10-13 06:11:08+00:00,关于FiLM和MICN无法运行的问题
+1900363084,lsl0000,closed,2023-09-18 07:49:09+00:00,2023-10-13 06:10:03+00:00,关于预测结果不准确的问题
+1897906289,hhr114,closed,2023-09-15 07:54:36+00:00,2023-09-20 04:07:21+00:00,long-term forecasting 和 short-term forecasting 的区别
+1897810058,hhr114,closed,2023-09-15 06:42:16+00:00,2023-09-19 02:11:38+00:00,测试出现数据集泄露？
+1893889454,weituo2002,closed,2023-09-13 07:09:14+00:00,2023-09-13 09:33:10+00:00,there is bug in exp_short_term_forecasting.py
+1893646845,weituo2002,closed,2023-09-13 03:17:18+00:00,2023-09-13 09:33:16+00:00,there is bug in exp_short_term_forecasting.py
+1893618133,1400432574,closed,2023-09-13 02:36:34+00:00,2023-09-13 09:39:02+00:00,关于TimesNet分类使用自制数据集
+1892025236,SodiumBoloxide,closed,2023-09-12 08:59:24+00:00,2023-09-13 09:34:38+00:00,Make library usable in Google Colab
+1885924302,lizhuoq,closed,2023-09-07 13:40:57+00:00,2023-09-08 00:17:12+00:00,预测的时间序列有缺失值处理问题
+1883522755,goodlucky111,closed,2023-09-06 08:34:17+00:00,2023-09-08 00:18:37+00:00,AttributeError: 'Namespace' object has no attribute 'frequency_map'，
+1881668362,fengqsam,closed,2023-09-05 10:20:41+00:00,2023-09-05 12:46:33+00:00,关于exp_anomaly_detection文件，test方法中的adjustment函数
+1881148010,cennn,closed,2023-09-05 04:06:51+00:00,2023-09-05 04:52:52+00:00,Bug Fix: ECL_script/Transformer.sh
+1881147127,cennn,closed,2023-09-05 04:05:33+00:00,2023-09-05 04:52:41+00:00,Bug Fix: ECL_script/Nonstationary_Transformer.sh
+1881145339,cennn,closed,2023-09-05 04:02:59+00:00,2023-09-05 04:53:04+00:00,Fix error: Traffic/Transformer.sh
+1880265735,Choujim,closed,2023-09-04 13:13:49+00:00,2023-09-13 09:35:33+00:00,"some confusing contexts, seems like param 'TRAIN' or 'TEST' will leads to no branch, and vali_loader shares the same 'TEST' with test_loader"
+1878913563,LY-must-win,closed,2023-09-03 02:44:24+00:00,2023-09-03 11:49:06+00:00,TimesNet训练损失下降明显，验证和测试损失下降缓慢
+1871201650,rdyan0053,closed,2023-08-29 08:56:12+00:00,2023-09-02 09:09:32+00:00,关于Dataset_ETT_hour类的scale参数设置
+1870064350,rdyan0053,closed,2023-08-28 16:17:19+00:00,2023-09-02 09:10:07+00:00,关于freq参数在自定义数据集上的选择
+1868006166,gu-cheng1,closed,2023-08-26 09:53:12+00:00,2023-08-26 11:29:08+00:00,ETSformer代码报错
+1866548823,HuntZhaozq,closed,2023-08-25 07:58:31+00:00,2023-09-04 04:22:28+00:00,如何预测未在batch_x内出现的单变量
+1860402366,Et6an,closed,2023-08-22 01:39:59+00:00,2023-08-23 03:25:14+00:00,如果已知未来的其他变量该如何预测OT列呢？
+1859532982,sujing863,closed,2023-08-21 14:44:27+00:00,2024-07-14 04:14:54+00:00,FEL of FiLM
+1858722596,HuntZhaozq,closed,2023-08-21 06:52:57+00:00,2023-08-23 03:32:03+00:00,如何预测生成新的变量？
+1854287814,gabriead,closed,2023-08-17 05:40:00+00:00,2023-08-23 03:28:06+00:00,"Could you explain label length, sequence length?"
+1853168118,gabriead,closed,2023-08-16 12:44:51+00:00,2023-09-13 09:38:34+00:00,Can't run scripts with GPU-Support
+1847151428,cs-fisha,closed,2023-08-11 16:59:16+00:00,2023-08-12 01:15:31+00:00,torch version too low
+1844480907,HuntZhaozq,closed,2023-08-10 06:09:47+00:00,2023-08-12 01:05:05+00:00,Backbone of TimesNet
+1843341045,Tang4109,closed,2023-08-09 14:13:50+00:00,2023-08-12 01:16:33+00:00,Inception_Block_V1中是不是没有用到最大池化max pooling
+1843146948,zhuyulong94,closed,2023-08-09 12:36:51+00:00,2023-08-12 01:05:33+00:00,关于data_loader.py中border1s和border2s作用的问题
+1843057775,wecandoforit,closed,2023-08-09 11:40:34+00:00,2023-08-12 01:13:22+00:00,关于异常检测
+1841368758,Tang4109,closed,2023-08-08 13:52:54+00:00,2023-08-08 14:13:59+00:00,关于TimesNet中FFT_for_Period函数可能有误的问题
+1840414665,Yuanen-Pang,closed,2023-08-08 01:23:28+00:00,2023-08-12 01:09:32+00:00,关于所需预测的变量：过去信息无法使用的问题
+1838590807,saqibejaz,closed,2023-08-07 03:04:04+00:00,2023-10-23 04:10:01+00:00,EOF Error in exp_classification.py
+1832992844,liziru,closed,2023-08-02 11:26:14+00:00,2023-08-03 07:00:46+00:00,如何提升预测精度和效果
+1829198195,bangbangDong,closed,2023-07-31 13:29:26+00:00,2023-08-03 07:02:43+00:00,Dataset split problem in exchange rate
+1827312810,fengqsam,closed,2023-07-29 04:34:02+00:00,2023-08-03 07:03:42+00:00,Questions about ablation experiments in research papers
+1816966452,longlive1234,closed,2023-07-23 02:56:04+00:00,2024-07-14 04:16:31+00:00,pytorch新版本与新基线
+1813710345,TDL77,closed,2023-07-20 10:55:13+00:00,2023-10-23 14:20:19+00:00,Very big request
+1811321943,rdyan0053,closed,2023-07-19 07:18:19+00:00,2023-07-19 14:36:12+00:00,Why are the values of `padding_mask` all 1 in UEA heartbeat `classification` task?
+1802267484,linpingta,closed,2023-07-13 06:17:22+00:00,2023-09-22 08:28:59+00:00,Error variable def in data_provider/data_loader.py
+1800621086,xinming365,closed,2023-07-12 10:00:41+00:00,2023-08-14 06:49:49+00:00,loss 使用问题
+1798104351,gabriead,closed,2023-07-11 05:06:53+00:00,2023-07-11 07:05:46+00:00,Can I do multivariate time-series analysis and also add TFT transformer?
+1795870708,zhoulian-sudo,closed,2023-07-10 03:38:37+00:00,2023-07-10 08:37:09+00:00,Improve predictive performance for other tasks
+1794850500,xiaoxiaoyiban,closed,2023-07-08 08:53:55+00:00,2023-07-10 08:39:28+00:00,FFT之后不是频域信号了吗，那周期是怎么计算的？
+1792751012,zhizhuaa,closed,2023-07-07 04:31:13+00:00,2023-07-07 12:07:31+00:00,For TimesNet
+1792608510,zhizhuaa,closed,2023-07-07 02:22:12+00:00,2023-07-07 02:30:19+00:00,For TimesNet
+1789615204,Wentao-Gao,closed,2023-07-05 13:51:20+00:00,2023-07-05 15:46:38+00:00,torch==1.7.1 is not available for now.
+1788100665,rdyan0053,closed,2023-07-04 15:00:29+00:00,2023-07-05 15:52:40+00:00,Should we use lowercase flag values `train` or `test` in `exp_classfication`?
+1785596958,Ray9uaza,closed,2023-07-03 08:13:56+00:00,2023-07-05 16:00:49+00:00,Dataset_custom运行其他模型遇到的问题
+1785457889,Med-Rokaimi,closed,2023-07-03 06:46:42+00:00,2023-07-05 15:53:44+00:00,It is possible to ignore generating of the time features please?
+1785180547,longlive1234,closed,2023-07-03 02:48:05+00:00,2023-07-05 10:10:51+00:00,多元预测的结果是使用Linux系统得到的吗
+1784498226,zhizhuaa,closed,2023-07-02 07:17:47+00:00,2023-07-05 15:45:00+00:00,For TimesNet
+1781844918,aipymhx,closed,2023-06-30 04:04:19+00:00,2023-07-05 15:55:21+00:00, https://github.com/thuml/Anomaly-Transformer   ---- Why is it not included?
+1780728973,seraveea,closed,2023-06-29 12:30:22+00:00,2023-06-30 03:31:18+00:00,Questions about PatchTST model channel-independent encoder
+1776298213,zhizhuaa,closed,2023-06-27 07:44:38+00:00,2023-06-27 09:29:43+00:00,TimeNet的predict_linear
+1775697388,Med-Rokaimi,closed,2023-06-26 21:47:53+00:00,2023-10-13 06:03:01+00:00,Inverse the normalization of the results in preds and trues npy
+1775319833,Med-Rokaimi,closed,2023-06-26 18:13:44+00:00,2023-06-26 20:09:25+00:00,Message error : TypeError: unsupported operand type(s) for %: 'NoneType' and 'int'
+1774925684,liuxu77,closed,2023-06-26 14:26:40+00:00,2023-06-27 09:33:51+00:00,PatchTST results
+1774827698,bigdata2013lee,closed,2023-06-26 13:49:33+00:00,2023-07-06 03:34:22+00:00, Can't pickle local object 'data_provider.<locals>.<lambda>'
+1774127018,freedomaswind94,closed,2023-06-26 07:30:50+00:00,2023-06-26 11:52:50+00:00,请问一下有没有使用文档？提供以下谢谢
+1770533415,DhavalRepo18,closed,2023-06-22 23:47:38+00:00,2023-06-26 07:21:45+00:00,Any ETA for completing the leaderboard excerise as pointed out in main repo
+1768885231,thw1021,closed,2023-06-22 03:59:18+00:00,2023-06-26 07:17:34+00:00,如何对时间序列模型的预测结果进行快速纠正？
+1764516643,ycglsy,closed,2023-06-20 02:32:28+00:00,2023-06-24 04:05:33+00:00,"使用作者m4中Hourly-train.csv，报错RuntimeError: Given groups=1, weight of size [512, 7, 3], expected input[32, 1, 38] to have 7 channels, but got 1 channels instead"
+1764492822,ycglsy,closed,2023-06-20 01:59:31+00:00,2023-06-20 02:31:20+00:00,TypeError: 'NoneType' object is not subscriptable是什么问题？
+1762065231,JaaakeTang,closed,2023-06-18 01:13:23+00:00,2023-06-26 07:08:29+00:00,ValueError报错
+1759842776,Sunting78,closed,2023-06-16 03:00:46+00:00,2023-06-16 05:23:28+00:00,当跑多次结果，即：--itr 5设置为5，指标波动，是正常的吗？
+1757252438,remicazorla,closed,2023-06-14 16:17:25+00:00,2023-06-15 02:55:45+00:00,Multi features to single
+1756031726,vaeaea,closed,2023-06-14 04:28:56+00:00,2023-06-15 02:56:48+00:00,关于M4数据集的含义
+1755902297,czwangry123,closed,2023-06-14 01:58:12+00:00,2023-06-15 02:58:22+00:00,Train own data set
+1754631194,hfkl1998,closed,2023-06-13 11:08:22+00:00,2023-06-13 15:17:05+00:00,reformer_pytorch==1.4.4
+1754592245,vaeaea,closed,2023-06-13 10:47:12+00:00,2023-06-13 15:11:49+00:00,关于TimesNet中短期预测的数据集划分问题
+1753974864,Sunting78,closed,2023-06-13 03:45:22+00:00,2023-06-15 02:58:35+00:00,Non-stationary Transformers 无法到达论文指标
+1753855651,asfixcb,closed,2023-06-13 01:28:28+00:00,2023-06-13 06:59:20+00:00,如果数据不是显著周期性的
+1745285494,tkjUser,closed,2023-06-07 07:52:45+00:00,2023-06-13 15:18:47+00:00,About Attention map Visualization
+1743581920,LanZhenFeng,closed,2023-06-06 10:35:03+00:00,2023-06-15 03:00:24+00:00,About Temporal 2D-Variations
+1738068050,VictimHan,closed,2023-06-02 11:57:49+00:00,2023-06-03 15:53:14+00:00,请问能不能发我一份PPT
+1733633808,Ray9uaza,closed,2023-05-31 08:15:38+00:00,2023-06-07 08:47:06+00:00,About Dataset_Custom
+1733331213,gishui,closed,2023-05-31 03:38:18+00:00,2023-06-26 07:22:41+00:00,Can't pickle local object 'data_provider.<locals>.<lambda>'
+1730979964,blacksnail789521,closed,2023-05-29 15:58:59+00:00,2023-06-15 03:05:40+00:00,Discrepancy in anomaly_ratio for SWaT Dataset
+1730415019,wentixiaogege,closed,2023-05-29 09:27:45+00:00,2023-05-30 03:57:11+00:00,Dataset_Custom 类只支持一次一种ID的训练么？
+1730354791,dongxinyu1030,closed,2023-05-29 08:52:31+00:00,2023-05-30 04:05:42+00:00,timesnet has different val and test performances on my dataset
+1729708372,gypinsistcn,closed,2023-05-28 22:15:39+00:00,2023-05-28 22:16:59+00:00,时间戳相同，数据不想合并怎么办
+1729241583,yexianyao,closed,2023-05-28 06:51:46+00:00,2023-05-28 14:52:23+00:00,anomaly detection threshold
+1725187826,blacksnail789521,closed,2023-05-25 06:43:20+00:00,2023-10-13 06:04:33+00:00,New baseline
+1721555007,Et6an,closed,2023-05-23 08:50:47+00:00,2023-05-24 08:38:37+00:00,About results
+1721525434,ajikmr,closed,2023-05-23 08:34:43+00:00,2023-05-24 13:21:12+00:00,Error in MICN model
+1721331402,Et6an,closed,2023-05-23 06:44:04+00:00,2023-05-23 07:39:45+00:00,数据集长度问题
+1718225790,wh1994-phd,closed,2023-05-20 16:51:49+00:00,2023-05-21 09:28:27+00:00,添加更多的模型
+1718154220,ZHE0725,closed,2023-05-20 12:14:44+00:00,2023-05-21 09:30:06+00:00,About replace 
+1717236311,umitkaanusta,open,2023-05-19 13:16:14+00:00,,Will there be experiments w/ M5 data?
+1709776063,ShiinoMashiro,closed,2023-05-15 10:16:13+00:00,2023-06-26 07:22:57+00:00,data_provider报错
+1709160958,dustingan,closed,2023-05-15 01:29:06+00:00,2023-10-05 11:44:28+00:00,Advise
+1708578686,ZHE0725,closed,2023-05-13 12:06:34+00:00,2023-05-13 12:22:35+00:00,About other replace model
+1708536136,luoolu,closed,2023-05-13 09:43:05+00:00,2023-05-13 12:26:47+00:00,inference based hisorical data trained
+1701209815,Pike12,closed,2023-05-09 02:34:42+00:00,2023-05-14 12:32:06+00:00,There are some problems in running classification.py
+1699137549,LanZhenFeng,closed,2023-05-07 16:31:07+00:00,2023-05-08 04:43:58+00:00,Normalization from Non-stationary Transformer
+1695421844,ZHE0725,closed,2023-05-04 07:25:57+00:00,2023-05-04 08:07:47+00:00,About TimesBlocks
+1695403795,minqukanq,closed,2023-05-04 07:14:04+00:00,2023-05-04 09:23:57+00:00,CUDA device Error
+1695306735,Suzu10969,closed,2023-05-04 05:55:30+00:00,2023-05-05 07:32:37+00:00,为什么timesnet会CUDA error: out of memory，其他模型不会
+1692021850,barisozu,closed,2023-05-02 08:49:24+00:00,2023-05-02 08:55:45+00:00,patool import error fix
+1685043349,junwoopark92,closed,2023-04-26 13:31:02+00:00,2023-04-27 11:07:45+00:00,TimesNet Training Speed
+1684165163,darry00,closed,2023-04-26 02:36:57+00:00,2023-04-26 09:26:04+00:00,Why is the result of my experiment so bad?
+1682546941,SomeOneIsWLL,closed,2023-04-25 06:56:42+00:00,2023-04-25 06:58:14+00:00,关于变量与变量之间的关系
+1679837554,ailungoal,closed,2023-04-23 03:25:53+00:00,2023-04-23 08:02:08+00:00,为什么Informer的decoder的cross-attention也是用的Prob-attention呢，论文好像是用的full-attention
+1679599889,crest55,closed,2023-04-22 16:06:42+00:00,2023-04-23 08:03:34+00:00,Is the exp_short_term_forecasting just for M4 dataset?
+1679298430,LittleTigger-alpha,closed,2023-04-22 03:15:58+00:00,2023-04-22 05:39:29+00:00,the selection of random seed
+1676286204,jinghao2eebd,closed,2023-04-20 08:49:05+00:00,2023-04-20 08:50:44+00:00,How to specify target cols in M task with custom data?
+1674910940,kuaileyuandi,closed,2023-04-19 13:31:09+00:00,2023-04-20 03:22:47+00:00,Application
+1672679870,thornbsj,closed,2023-04-18 09:06:14+00:00,2023-04-20 08:29:57+00:00,Error when using short_term_forecast
+1670449056,SeungHunHan11,closed,2023-04-17 05:39:12+00:00,2023-04-20 09:32:13+00:00,Error when loading custom dataset
+1669305915,LY-must-win,closed,2023-04-15 10:46:12+00:00,2023-04-20 12:34:20+00:00,About the excerpts of the paper
+1669273790,yunchuan18,closed,2023-04-15 09:20:14+00:00,2023-04-16 17:13:12+00:00,关于无法用gpu训练
+1669194434,yunchuan18,closed,2023-04-15 06:47:10+00:00,2023-04-15 07:10:31+00:00,如何生成预测的效果图？
+1668147326,fiksdano,closed,2023-04-14 12:17:22+00:00,2023-04-15 06:50:26+00:00,是否尝试过单变量预测的效果
+1667988520,LY-must-win,closed,2023-04-14 10:28:18+00:00,2023-04-15 07:12:49+00:00,ImportError：cannot import name 'pack' from 'einops'
+1666388548,fiksdano,closed,2023-04-13 13:07:04+00:00,2023-04-13 14:08:26+00:00,能否进行单变量预测
+1666010864,czqaq,closed,2023-04-13 08:58:40+00:00,2023-04-13 14:09:26+00:00,关于1D转2D之后的维度变化
+1663645639,luoxia-wen,closed,2023-04-12 03:22:16+00:00,2023-04-13 14:26:01+00:00,FFT相关
+1661994710,Nonikka,closed,2023-04-11 08:20:19+00:00,2023-04-11 13:45:17+00:00,请问如何预测未在batch_x内出现的单变量？
+1660623351,tiago-lam,closed,2023-04-10 11:04:52+00:00,2023-04-15 02:17:18+00:00,Running on CPU instead of GPU
+1660301668,DylTop,closed,2023-04-10 06:15:46+00:00,2023-04-11 13:48:18+00:00,a small question
+1659917087,cccuuu6666,closed,2023-04-09 15:43:53+00:00,2023-04-15 07:12:39+00:00,Anomaly detection on MSL
+1659668154,tiago-lam,closed,2023-04-08 22:50:15+00:00,2023-04-09 13:21:42+00:00,Downloaded folder can't be located
+1657839104,almaghrabima,closed,2023-04-06 18:02:42+00:00,2023-04-10 22:02:49+00:00,How to implement geolocation information in TimesNet
+1654795256,xuehaouwa,closed,2023-04-05 01:43:17+00:00,2023-04-07 02:49:37+00:00,Segmentation fault when running classification exp
+1651860318,gengdd,closed,2023-04-03 11:13:57+00:00,2023-04-04 10:10:02+00:00,关于FFT_for_Period中frequency_list和top_list计算方式
+1647995079,NudnikShpilkis,closed,2023-03-30 17:05:39+00:00,2023-04-03 15:44:52+00:00,Variable Length Predictions
+1644576310,kashif,closed,2023-03-28 19:57:26+00:00,2023-03-30 14:17:14+00:00,proper attribution for time features
+1643508782,nightscorpio,closed,2023-03-28 09:03:02+00:00,2023-10-13 06:02:41+00:00,Could you add MTS-Mixers into your library?
+1641595282,THUliuxinlong,closed,2023-03-27 08:01:47+00:00,2023-04-20 12:06:58+00:00,I hope this code can be annotated more
+1640080378,imanmousaei,closed,2023-03-24 21:42:06+00:00,2023-03-25 13:38:18+00:00,Fix some bugs
+1639010880,wiwi,closed,2023-03-24 09:15:04+00:00,2023-03-25 02:42:16+00:00,The implementation of PatchEmbedding in PatchTST misunderstands the original paper.
+1636814975,lostlau,closed,2023-03-23 04:03:51+00:00,2023-03-23 06:01:33+00:00,run.py output_attention默认值缺失
+1636808139,lostlau,closed,2023-03-23 03:56:21+00:00,2023-03-23 05:51:39+00:00,run.py - args.dvices 写错
+1627164262,Songweiping,closed,2023-03-16 10:24:02+00:00,2023-03-18 08:08:05+00:00,Is the Crossformer using PatchingEmbedding incorrectly?
+1626845765,GOOFFG,closed,2023-03-16 07:04:31+00:00,2023-03-23 05:50:07+00:00,模型在windows系统下的运行问题
+1625651661,shushan2017,closed,2023-03-15 14:35:00+00:00,2023-04-04 14:20:47+00:00,希望能写个最简洁代码timesnet的分类示例代码
+1625357535,Zeyu-Zhu,closed,2023-03-15 11:41:26+00:00,2023-03-16 03:05:00+00:00,"May I ask what do 'seq_len', 'label_len', 'pred_len' mean in 'Dataset_ETT_hour' for long-time forecasting, respectively?"
+1625105367,TungyuYoung,closed,2023-03-15 09:28:47+00:00,2023-03-16 03:03:39+00:00,"How to train, test, and forecast my own datasets?"
+1624830324,sysublackstar,closed,2023-03-15 06:16:58+00:00,2023-03-16 03:00:43+00:00,请问是否有多条时间序列预测的例子？
+1624717430,xcf11111,closed,2023-03-15 04:26:05+00:00,2023-03-18 08:09:51+00:00,'Namespace' object has no attribute 'frequency_map'
+1624671051,Songweiping,closed,2023-03-15 03:32:12+00:00,2023-10-23 03:56:13+00:00,TimesNet runs slowly as num_kernels grows
+1624598720,mokeeqian,closed,2023-03-15 02:12:45+00:00,2023-03-15 07:32:52+00:00,单变量预测出错
+1622954197,fiksdano,closed,2023-03-14 08:16:18+00:00,2023-03-14 08:24:32+00:00,how to use own dataset?
+1622940897,ZHE0725,closed,2023-03-14 08:08:05+00:00,2023-03-14 08:23:37+00:00,关于短序列预测
+1621337814,sysublackstar,open,2023-03-13 11:57:38+00:00,,Will this project become a package for time series forecasting/classification/anomaly detaction?
+1616231085,xiao-he,closed,2023-03-09 01:18:27+00:00,2023-03-09 02:36:45+00:00,"The scripts for running DLinear, ETSformer, FEDformer, Informer and LightTS on ETTh2, ETTm1, ETTm2 are missing"
+1614817771,ddz16,closed,2023-03-08 08:01:40+00:00,2023-03-08 08:19:33+00:00,Why TimsNet doesn't use series decomposition?
+1613521654,annmusic,closed,2023-03-07 13:57:56+00:00,2023-03-08 06:54:50+00:00,About TimesNet
+1612837302,tx-frozen,closed,2023-03-07 06:55:29+00:00,2023-03-07 12:19:23+00:00,运行TimesNet_ETTh1.sh时报错ValueError: source code string cannot contain null bytes
+1612675406,fiksdano,closed,2023-03-07 03:55:23+00:00,2023-03-07 12:19:11+00:00,"ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is"
+1612674649,luoxia-wen,closed,2023-03-07 03:54:12+00:00,2023-03-07 12:15:26+00:00,转换数据（嵌入）后提取周期
+1612557726,hljuniversity,closed,2023-03-07 01:57:34+00:00,2023-03-07 12:17:13+00:00,Transform raw data
+1611118164,ZHE0725,closed,2023-03-06 10:36:33+00:00,2023-03-06 16:50:44+00:00,数据集是否可以不用date列
+1610938203,zhangwei619,closed,2023-03-06 08:51:59+00:00,2023-03-07 12:18:58+00:00,显存不足
+1610856388,Yongke,closed,2023-03-06 07:55:26+00:00,2023-03-06 09:36:22+00:00,MICN x_dec 被处理了两次吗？
+1610783766,MythosAd,closed,2023-03-06 06:56:36+00:00,2023-03-06 16:52:35+00:00,about  PatchTST
+1610509541,fiksdano,closed,2023-03-06 01:56:41+00:00,2023-03-06 16:54:29+00:00,How to use the Timenet code?
+1609908843,Sanjeev97,closed,2023-03-04 19:01:14+00:00,2023-03-05 05:06:16+00:00,Multivariate Predict Multivariate(M) vs Multivariate Predict Univariate (MS)
+1609686173,Nicholas0917,closed,2023-03-04 09:04:21+00:00,2023-04-13 12:17:49+00:00,Why not FiLM
+1609550530,lxy1108,closed,2023-03-04 02:40:28+00:00,2023-03-04 02:49:44+00:00,Why drop_last is set to True when generating the dataloader? 
+1609538821,hljuniversity,closed,2023-03-04 02:04:51+00:00,2023-03-05 02:25:34+00:00,关于reshape
+1608261900,Kgoeson,closed,2023-03-03 09:28:25+00:00,2023-03-05 02:24:24+00:00,关于预测
+1607968619,xiao-he,closed,2023-03-03 05:24:34+00:00,2024-05-28 13:17:11+00:00,"add N-BEATS, N-HITS, TFT baselines"
+1606840726,henghamao,closed,2023-03-02 13:48:32+00:00,2023-03-02 14:43:21+00:00,Is there tf implementation?
+1606515436,oubahe,closed,2023-03-02 10:12:55+00:00,2023-03-02 14:45:05+00:00,experiment results
+1606336925,hetingyou,closed,2023-03-02 08:35:13+00:00,2023-03-02 14:47:19+00:00,how to download the pre-processed datasets from [Google Drive] or [Tsinghua Cloud] 
+1606116667,kyungeun-lee,closed,2023-03-02 05:05:55+00:00,2023-03-02 05:28:41+00:00,No module named 'reformer_pytorch'
+1606045816,mokeeqian,closed,2023-03-02 03:28:17+00:00,2023-03-02 15:11:00+00:00,[Dataset] How to feed my own dataset
+1603723497,mrgsv,closed,2023-02-28 20:00:53+00:00,2023-03-01 16:37:41+00:00,adjustment function in utils.tools
+1601038349,Bsdnbo,closed,2023-02-27 11:56:54+00:00,2023-02-27 12:42:08+00:00,TimesNet about classification job
+1600580117,linestao,closed,2023-02-27 06:44:44+00:00,2023-02-27 07:50:30+00:00,timesnet的 timesblock输出为0
+1600318390,CSyyn,closed,2023-02-27 02:09:07+00:00,2023-02-27 12:17:26+00:00,experiment results
+1596948189,IdealRealistD,closed,2023-02-23 14:15:44+00:00,2023-02-24 16:57:23+00:00,关于其中Classification模型的困惑
+1594546641,LovingThresh,closed,2023-02-22 06:40:51+00:00,2023-02-24 19:21:56+00:00,The Script can't get a high performance？
+1594383566,oubahe,closed,2023-02-22 03:09:17+00:00,2023-02-22 06:55:57+00:00,positionEmbedding的实际意义？
+1592081594,blahblkusoi,closed,2023-02-20 15:38:42+00:00,2023-02-21 14:40:12+00:00,CUDA not available.
+1592034993,blahblkusoi,closed,2023-02-20 15:08:08+00:00,2023-02-23 14:27:15+00:00,"Runtime error caused by run.py not being contained within idiom ""if __name__ == '__main__':"""
+1591995814,Xizhang-Yao,closed,2023-02-20 14:45:45+00:00,2023-02-20 16:19:12+00:00,ImportError: cannot import name 'load_data' from 'sktime.utils' (D:\Anaconda\envs\dongshouxue\lib\site-packages\sktime\utils\__init__.py)
+1591106211,water-wbq,closed,2023-02-20 04:15:21+00:00,2023-02-20 14:36:30+00:00,周期选择和变2D时的length设定
+1590970325,wh1994-phd,closed,2023-02-20 01:44:56+00:00,2023-02-21 01:36:43+00:00,频率的选择
+1590739197,SaltedfishLZX,closed,2023-02-19 15:52:23+00:00,2023-02-20 03:31:56+00:00,python 3.6 or 3.8
+1590551309,wuhaixu2016,closed,2023-02-19 04:05:06+00:00,2023-02-19 07:20:38+00:00,About datasets
+1588730449,943fansi,closed,2023-02-17 04:24:57+00:00,2023-03-09 13:43:41+00:00,add MICN、 Crossformer

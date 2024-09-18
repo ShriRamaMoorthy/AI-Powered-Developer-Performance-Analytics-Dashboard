@@ -1,0 +1,400 @@
+sha,author,date,message
+07d6f800f9bf0812f519511d23b226dbe6fd8d9f,wuhaixu2016,2024-09-11 13:19:58+00:00,"Merge pull request #533 from Musongwhk/main
+
+fix bugs according to issues #529 #516"
+b712c8ceb40ab7d110d381f368a09501fb08b1e2,Musongwhk,2024-09-11 13:19:07+00:00,fix bugs according to issues #529 #516
+e1e59c53273f8d9ea3801ef8c185e3d6db18cfc5,Musongwhk,2024-09-11 13:10:01+00:00,fix bugs according to issues #529 #516
+c29eeb58d1bd209122b0fa4ebd7475a728bf1db9,wuhaixu2016,2024-09-11 09:48:25+00:00,Update README.md
+8bd4b18f05ed7d9fcf88d4292c44db5a2ec47811,wuhaixu2016,2024-09-11 09:42:35+00:00,"Merge pull request #531 from Musongwhk/main
+
+Add SCINet"
+12f05cc77a909a55ea52b162e10474783fc0560d,Musongwhk,2024-09-11 09:40:25+00:00,Merge branch 'main' into main
+7d1c14046c8098a2ce9435e8a52412894178b7fc,Musongwhk,2024-09-11 09:35:51+00:00,add SCINet
+f2525641a5a929035a87e00ac47848f683949557,Musongwhk,2024-09-11 09:18:37+00:00,add SCINet
+a48504d1adcb145fafe7c2bab57f78cfdc86a2b6,Musongwhk,2024-09-11 09:16:13+00:00,add SCINet
+a10248a70f6f47ab3f1e6a41f0e1de2c8d07ab10,Musongwhk,2024-09-11 09:14:33+00:00,add SCINet
+6949146ca20c802ebba4e810e52405097cd672b1,wuhaixu2016,2024-09-05 13:16:35+00:00,"Merge pull request #523 from DigitalLifeYZQiu/main
+
+#bugfix: Augmentation code fixing"
+0cc8f8909439e30848e1a358447ccbf5456c29f1,DigitalLifeYZQiu,2024-09-05 12:22:17+00:00,#bugfix: augmentation
+f4f9a9493bb8815dc5cc990bc4e12192aa216adf,DigitalLifeYZQiu,2024-09-05 08:55:54+00:00,#documentation: augmentation feature roadbook
+e2e7689126695f9580f7af9a6d053af36019f9f6,DigitalLifeYZQiu,2024-09-05 08:54:14+00:00,#bugfix: augmentation code fixing
+04b8054aa6b8a16fe2594f4120ee455f5ef45b45,wuhaixu2016,2024-09-01 12:52:41+00:00,Update README.md
+3d445ce1b52fc8a0cb836e7ef000c837a0e93827,wuhaixu2016,2024-09-01 12:43:08+00:00,Update README.md
+1f13c4531051793f36110bf50d8663ef5b971888,wuhaixu2016,2024-08-27 03:57:16+00:00,"Merge pull request #513 from akkasayaz/patch-1
+
+Update requirements.txt"
+049cd10a7414365d4aa4e217528cc29550d7943b,akkasayaz,2024-08-25 15:38:28+00:00,"Update requirements.txt
+
+einsum is not available in 0.4.0"
+3fc38a9b108b984f1d6ef9bdf464a81c39e81a35,wuhaixu2016,2024-08-21 06:26:53+00:00,"Merge pull request #507 from eltociear/patch-2
+
+docs: update README.md"
+a47091e7c28bd971725e5112e889e8ec5a53d4a9,eltociear,2024-08-20 15:08:34+00:00,"docs: update README.md
+
+sequenctial -> sequential"
+b8347de8ac529be7fe1464390a796c89312d4acd,wuhaixu2016,2024-08-20 11:30:39+00:00,Update data_loader.py
+8e8665f634e80484d660dd9dd4abf4da05e8fbb3,wuhaixu2016,2024-08-20 11:28:32+00:00,"Merge pull request #473 from mauricekraus/patch-1
+
+Fix Monthly split for M4 Comp"
+dbd4ede1dd369135616bf724c6a4ecf3807d0cc2,wuhaixu2016,2024-08-19 16:56:50+00:00,Update TimesNet.sh
+de3406314e036cdf4a74b69f09741c240584f7c4,wuhaixu2016,2024-08-16 07:32:41+00:00,Update README.md
+645f6c195b9a42fa3219d84daedf7cc9917bf217,wuhaixu2016,2024-08-15 04:04:59+00:00,Update CONTRIBUTING.md
+a145b85592aee1a2566b62ad98186bcea44ce26c,wuhaixu2016,2024-08-15 03:10:52+00:00,Update CONTRIBUTING.md
+44c59deedd0e0ad54c08adc7c7feb8315b08a453,wuhaixu2016,2024-08-15 03:09:33+00:00,Update CONTRIBUTING.md
+c88d08305f5c5b7cbcd9827182df4cd06fc09ae5,wuhaixu2016,2024-08-15 03:08:53+00:00,"Merge pull request #228 from 0Armaan025/docs-fix/contributing.md
+
+Made CONTRIBUTING.md"
+866dd9d4de5ad07ab5386355462d5adb77d3774b,wuhaixu2016,2024-08-15 02:41:01+00:00,"Merge pull request #495 from revv00/fix-inception2-kernel
+
+ConvBlock: fix inception v2 kernel number to reslist size mapping"
+bbcda1bd4c854ca2a790704304d007876956984c,wuhaixu2016,2024-08-13 05:02:04+00:00,"Merge pull request #498 from webbershaw/main
+
+Fix data_factory.py which will shuffle test dataset for classification tasks"
+6d1c2fcfd09d5685ba5f1a1031a945f443b7057b,webbershaw,2024-08-13 03:12:37+00:00,fixed data_factory.py which will shuffle test dataset for classification task
+4e11cebf33952307d65d5e48204b5c5223ac9b0f,wchunming,2024-08-11 12:54:03+00:00,ConvBlock: fix inception v2 kernel number to reslist size mapping
+f2c8af44c025205af913f1d7bb3e0c5908bd370f,wuhaixu2016,2024-08-08 03:28:11+00:00,Update TimeMixer.py
+d8fb7478c6975bfa4341bfedd7349f57827e75e4,wuhaixu2016,2024-07-29 03:13:24+00:00,"Merge pull request #479 from blacksnail789521/fix-mape-and-mspe
+
+use true - pred in M*E"
+d3f900f403e2668c9c4ee7e2ea30c837502d88db,blacksnail789521,2024-07-29 02:32:24+00:00,use true - pred in M*E
+346b9aa9477ddcf9e5d9c76b057faf002d091b7b,wuhaixu2016,2024-07-23 19:15:48+00:00,"Merge pull request #474 from blacksnail789521/remove-act-and-dropout-for-dlinear
+
+remove act and dropout for dlinear's classification"
+41acd6ac63133c07f5a2308c1d5692f6e70cd451,blacksnail789521,2024-07-23 13:45:13+00:00,remove act and dropout for dlinear's classification
+13680a6272250f321e0af544b8cd7882e392e8d4,mauricekraus,2024-07-23 11:47:40+00:00,"Fix Monthly split for M4 Comp
+
+Due to a sample size missmatch we need to define the dtype explicitly"
+eed3027e1ed346ae7856f2225d953af02239a455,wuhaixu2016,2024-07-19 02:08:08+00:00,Update README.md
+5b78367115eee8b692d8dfc9cfc325e0c3ad41b0,wuhaixu2016,2024-07-19 02:07:35+00:00,Update README.md
+1c7f843aee8ce75e758d45f0bd10c02516e36a92,wuhaixu2016,2024-07-14 09:55:59+00:00,Fix classification task
+20eff0e8abc907c14857f4b4d1700d0f3a04ceb5,wuhaixu2016,2024-07-14 04:33:48+00:00,Fix the inverse operation in long-term forecasting
+2d734a17045419cde6bfe7fc0e7fe99d8ce8d940,wuhaixu2016,2024-07-14 03:55:23+00:00,"Update exp_basic.py
+
+Fix mamba install problem"
+58bfec40c7a80d3035969f2297f518236e94e52d,wuhaixu2016,2024-07-14 03:50:37+00:00,Update MambaSimple.py
+ae1dcc63c89b149bd2f0312a33673e472655f536,wuhaixu2016,2024-07-14 03:37:13+00:00,"Merge pull request #458 from liuquangao/main
+
+Update exp_long_term_forecasting.py"
+9aea1db6ef755226da2e3ee1641b60fd33e3c403,wuhaixu2016,2024-07-14 02:52:20+00:00,Update README.md
+254cf1edd6a7ff48d00775bdd9a17682cc0faa2c,liuquangao,2024-07-13 13:09:28+00:00,Update exp_long_term_forecasting.py
+8cee66a8b3b657d7478daba13187a3bc5b0a76ea,wuhaixu2016,2024-07-11 04:56:51+00:00,Update README.md
+6c62acf417a35979682621416428b49a09e54cbb,wuhaixu2016,2024-07-11 04:55:04+00:00,Update README.md
+bdec49227b8eaa2e96af607d1abaa577888a758b,wuhaixu2016,2024-07-09 16:03:09+00:00,Update data_factory.py
+850a88b5e9a3cce1765860e8e5fd4b69ee232b60,wuhaixu2016,2024-07-01 13:20:17+00:00,"Merge pull request #446 from kwuking/main
+
+Update TimeMixer to add analysis task of time series"
+331f293cf0d0c16691689d26acb26677831e7a0f,kwuking,2024-07-01 10:51:41+00:00,Update TimeMixer.py
+8c70bec93f1fa753a1173e074b5469101d0e8b18,wuhaixu2016,2024-06-26 08:19:51+00:00,Update README.md
+4d69a77011e688a133f83867453ae940e1988568,wuhaixu2016,2024-06-03 13:23:58+00:00,"Merge pull request #429 from Ruifeng-Tan/main
+
+correct the normalization in PatchTST"
+4b919c9d0ec376d999a36a9e5c21205044cacb7c,Ruifeng-Tan,2024-06-02 17:21:56+00:00,correct the normalization in PatchTST
+77f11ea4bd3b32b42ff16e4f59f311fb78a08a6e,wuhaixu2016,2024-05-28 13:19:32+00:00,Update README.md
+faef7729b070dd6b8a2be66019cd066d58b637c1,wuhaixu2016,2024-05-28 13:14:35+00:00,"Merge pull request #424 from Musongwhk/main
+
+add TemporalFusionTransformer"
+6153d5ea9b71258afa1d2fd34fe5f4dd2427e6ae,Musongwhk,2024-05-28 13:08:37+00:00,add TemporalFusionTransformer
+a23cfce710d44d3602ef56837f854211a78c6ff9,wuhaixu2016,2024-05-06 19:31:39+00:00,"Merge pull request #399 from lizhuoq/redundancy
+
+Remove redundant code from data_factory.py"
+fe95238e6063951666b558d390043033d7b520b6,wuhaixu2016,2024-05-06 19:31:04+00:00,"Merge pull request #401 from GrigoriiTarasov/main
+
+fixed model_name to FEDformer in ECL_script"
+fc7acae9dd0d257b92f7dd3e51623fc3c6de3cc0,GrigoriiTarasov,2024-05-06 13:20:38+00:00,fixed model_name to FEDformer in ECL_script
+cf730985380fe0441780cc43b12d6787ba927f50,lizhuoq,2024-05-06 04:35:28+00:00,Remove redundant code from data_factory.py
+e6636881501b507f4baca205cc8515afdfdc1d13,wuhaixu2016,2024-04-26 09:40:40+00:00,Delete run_anylearn.py
+29eaab09d47cc00c28924c5db1df2ec09c151c9c,wuhaixu2016,2024-04-26 09:21:10+00:00,"Merge pull request #392 from DigitalLifeYZQiu/main
+
+Augmentation code base for Time-Series-Library"
+ca1897536d38c47a3b83c2fb0ede5bb4a3dfd296,DigitalLifeYZQiu,2024-04-26 09:01:57+00:00,requirement revise
+a68756fe531c5ec15f04489633a14e7bce0acc1e,DigitalLifeYZQiu,2024-04-26 08:58:56+00:00,revisions
+83d8ad3aa6eed589e7712777935166ced4a6a2c2,DigitalLifeYZQiu,2024-04-26 08:50:13+00:00,augmentation classification
+0315a8193942594285ce8b5df7dbc1e85ffec12d,DigitalLifeYZQiu,2024-04-25 07:08:40+00:00,aug code formalization
+a9e5f3109deff07a5ee845f5628496c3e7b041c7,DigitalLifeYZQiu,2024-04-18 15:34:26+00:00,Merge branch 'thuml:main' into main
+bd9802b482837605b9157d13c96dcea2fdeed751,DigitalLifeYZQiu,2024-04-18 15:17:40+00:00,augmentation batch
+76a9938b8766a720d6a4155c3739b24b3ebc5f89,wuhaixu2016,2024-04-18 14:53:12+00:00,Update data_factory.py
+dbbac2ff93250ca9114c594f5057b7d023a70656,DigitalLifeYZQiu,2024-04-16 14:21:51+00:00,ADF metric implemented
+43bf3b47e37dec9033fff1ac5f6e5a1ae8253e35,DigitalLifeYZQiu,2024-04-08 13:02:36+00:00,dtw metric added
+3bad314e0aa285896333db738aeaea5fa3c73da6,DigitalLifeYZQiu,2024-04-08 12:29:56+00:00,dtw metric added
+51d9ed6b0ff8aab169283fff37c04045937a8ba4,wuhaixu2016,2024-04-04 15:12:25+00:00,Update README.md
+5ca0135b801753deb09406859d598c06b6163bdc,wuhaixu2016,2024-04-04 15:11:15+00:00,Update README.md
+4c29e6d91762d828b8ea34f8235304822a10c614,wuhaixu2016,2024-04-04 15:05:22+00:00,"Merge pull request #378 from frecklebars/main
+
+Added Mamba models implementation for forecasting tasks"
+094f7a51539ba26160e30bf269110ba2b1aea677,frecklebars,2024-04-04 13:23:18+00:00,comments cleanup
+7ecdb2f857ec8cd17389fec34a41807033d2ad0a,frecklebars,2024-04-04 13:20:12+00:00,Merge remote-tracking branch 'upstream/main'
+21ebe5b40c809bc1ba79b81059d9dc14e407df98,frecklebars,2024-04-04 13:15:58+00:00,removed tee from mamba all script
+17a21795eb512626b71b1d776ce0fa9514611261,wuhaixu2016,2024-04-01 11:59:58+00:00,Update README.md
+42a5cdd68a0c9cce162389ce1074a9d4e576b797,wuhaixu2016,2024-04-01 09:04:40+00:00,"Merge pull request #370 from lss-1138/main
+
+Add SegRNN Code"
+69ffc6c280ed80771e354edefc0ac082c08269da,frecklebars,2024-03-30 17:16:13+00:00,Hardware Aware Mamba + Long Term Forecasting
+52531666c48b167a8f750131ba7da39634fb781c,lss-1138,2024-03-29 10:48:57+00:00,"Add SegRNN Code
+
+Add implementation code of SegRNN, a powerful time series forecating model based on recurrent neural networks"
+af210c74cfdcd2a12ddb9053bb709b009b43b586,wuhaixu2016,2024-03-28 08:42:25+00:00,Update README.md
+fdf7ebdef8dccbd82dd31ddfecc4f57b5492eab2,wuhaixu2016,2024-03-28 08:41:43+00:00,Update README.md
+40272f09925f47edbe1eaf1624e069341883b159,wuhaixu2016,2024-03-28 08:35:49+00:00,Update README.md
+2e074624ddf0630b30afeb39d30ec77edd3a3364,wuhaixu2016,2024-03-28 08:30:09+00:00,Update README.md
+1561dd30e63fd37bbe0b249d632f0030fb33216f,wuhaixu2016,2024-03-28 08:25:16+00:00,"Merge pull request #369 from kwuking/main
+
+add TimeMixer and TSMixer"
+719c52a00aee307b5ca21d8ae07a1216758156bd,Unknown,2024-03-28 07:23:30+00:00,add=add TimeMixer and TSMixer
+3a46114c0764ee5aff158a5cdf08130992459438,Unknown,2024-03-28 02:35:49+00:00,add=add TimeMixer and TSMixer
+adc8819c2451eae254e13b8df209dc7272fcd854,Unknown,2024-03-27 06:47:55+00:00,add=add TimeMixer and TSMixer
+9a875da4b898fcc857c98e14b147ffc7fd45024b,wuhaixu2016,2024-03-13 02:59:58+00:00,"Merge pull request #359 from liyiersan/fix-ms-impute
+
+fix bugs in imputation for MS"
+cc91bd5a92eaf828165a89bcf009985c708e3484,liyiersan,2024-03-13 02:16:21+00:00,fix bugs in imputation for MS
+72f58220eed6093213fc5b373bbf57ecccde8a8b,wuhaixu2016,2024-03-12 08:29:01+00:00,Update README.md
+22175f643f123320368978ad56bed7baa32feb01,frecklebars,2024-02-22 11:20:07+00:00,"added mamba model
+
+https://arxiv.org/abs/2312.00752"
+8782a590950b4ee31a0d2d66fc30b761689c3636,wuhaixu2016,2024-02-19 07:41:21+00:00,Update README.md
+3fd0862943a3462f84fd59040f56cc3275b0e65a,wuhaixu2016,2024-02-04 07:27:04+00:00,Update README.md
+d93fa671fc90184ea2eb9a83ffe2f7dd6a445ef4,wuhaixu2016,2024-01-08 05:34:18+00:00,"Merge pull request #318 from WenWeiTHU/main
+
+fix KPLayer in Koopa.py"
+02138647458cca6d3048795bd5b51ed1e435fbe3,WenWeiTHU,2024-01-08 05:29:20+00:00,fix KPLayer in Koopa.py
+eebf285cc95c642bcb997965340e5e7fd1fc19bb,wuhaixu2016,2024-01-03 15:30:12+00:00,Update README.md
+b6c96b7fa8d80be5acb27af33edb3e6c2ae9b782,wuhaixu2016,2024-01-03 15:26:49+00:00,"Merge pull request #316 from ChuckTG/feature-add-model-FreTS
+
+Add FreTS model"
+be7b387d690ee7c528c6da6855d2f2d27ff890ea,ChuckTG,2024-01-02 17:46:53+00:00,refactored FreTS model to match the TSlib's Model API
+9e56a15e5bdb106e083b5c61a591f1ccfba6ca5d,ChuckTG,2024-01-02 16:44:49+00:00,Update run.py with channel_independence config for FreTS model
+9b356a013c1aed54bacd8e12da26831cf1781210,ChuckTG,2024-01-02 16:42:29+00:00,Update exp_basic.py with FreTS model
+13d341f567bcc6b2385c5a90a94988146619ce45,ChuckTG,2024-01-02 16:40:56+00:00,added FreTS model
+c2f53c2359b23b743bdc9da639b0fc3ac3db1880,wuhaixu2016,2023-12-15 02:30:02+00:00,Update Nonstationary_Transformer.sh
+160e497ed5e14bf8aa4e89731c53a4d6081b3964,wuhaixu2016,2023-12-05 03:49:25+00:00,"Merge pull request #295 from Mico3o/main
+
+Update README.md"
+de2cc0946a38a145afc0901aff9fbfee3ee9f5ff,Mico3o,2023-12-04 12:51:43+00:00,"Update README.md
+
+fix typos"
+f5f216461b2643ae9429de41661f1c862a5e159d,wuhaixu2016,2023-11-22 12:52:18+00:00,"Merge pull request #276 from jurij-ch/argsprint
+
+[bug-fix] Values of args are not actual while printing in console."
+7a365fa4a5abd3b0e6b4a55fe293c65df34bf287,wuhaixu2016,2023-11-22 12:45:06+00:00,"Merge pull request #277 from jdleaverton/main
+
+Format console args print for readability"
+6976155537089787f563c86008327146bf6332eb,jdleaverton,2023-11-22 05:12:59+00:00,capitalization
+1a73fe8c8bd18ddb2d8f49a4b84cdc5b98effe5c,jdleaverton,2023-11-22 04:53:02+00:00,Format console args print
+76ba455b0aad69bb100f19e4eab474e6a2b28e6d,jurij-ch,2023-11-21 14:22:58+00:00,[bug-fix] Values of args are not actual while printing in console.
+2412d8a6689bca67978dad3f0eba21e956ef39cc,GuoKaku,2023-11-21 06:35:19+00:00,add TiDE and its ETTh1 script
+0888966de0c8e24e9fe0a3477a3afc54c170e48c,GuoKaku,2023-11-21 06:25:55+00:00,add imputation to TiDE
+7411e25d5c3dade5fd1ad16449dbc72257639251,GuoKaku,2023-11-21 06:22:00+00:00,Update README.md
+c565d6885236096496471e3950edc424afcd53df,GuoKaku,2023-11-21 06:16:45+00:00,add imputation to TiDE
+966a4724ca690c27522ef0e0ee5355ab18759a2a,GuoKaku,2023-11-20 09:55:35+00:00,add TiDE and its ETTh1 script
+51e80b6f76b7823fea2512d6d170b1b83b149d2d,wuhaixu2016,2023-11-10 03:36:47+00:00,Update MICN.sh
+5ed119886906b41a399fa23ea36fab4de06fdf2f,wuhaixu2016,2023-11-08 10:49:05+00:00,Update README.md
+129e23ff7f5e39e6df564397bc0d8b938e22092c,wuhaixu2016,2023-11-03 06:55:39+00:00,Update README.md
+479091e2d39f57ee58829af50afe629927f87ca2,GuoKaku,2023-10-30 14:10:27+00:00,Delete .DS_Store
+e139ced5662b699120f9af1ffa3628baa35a1f01,GuoKaku,2023-10-30 13:05:32+00:00,fix MS inverse
+35803b612477e0cb8407390d717840dafb674863,GuoKaku,2023-10-30 12:55:55+00:00,Merge branch 'main' of https://github.com/thuml/Time-Series-Library into main
+08cf8d7d57155bb38d2525439c80be103b69cef9,GuoKaku,2023-10-30 12:43:59+00:00,fix MS inverse
+a9db7887779500f9fd8a7278eacbf46dec4a6654,wuhaixu2016,2023-10-29 14:49:11+00:00,"Merge pull request #251 from mohitd404/main
+
+Updated Contributors Section"
+e32a7d60a5296065ec219c336e1430e5a5547cd9,mohitd404,2023-10-29 12:05:02+00:00,"Updated Contributors Section 
+
+Fixed #250"
+ee0f8c38a413af9af4187266822442071a476e5e,wuhaixu2016,2023-10-29 11:14:15+00:00,Update TimesNet_ETTh1.sh
+bd5f99ae039fe5c5c4dd57c0075eac686725133b,wuhaixu2016,2023-10-27 06:32:13+00:00,Update README.md
+69a257765e00bbf64c0c216ab725dae4ff278647,wuhaixu2016,2023-10-27 06:29:11+00:00,"Merge pull request #244 from lichenyu20/main
+
+add Koopa"
+1dda9f758431a3deb9370aaca15f25329280f1f6,lichenyu20,2023-10-27 06:03:23+00:00,Delete checkpoints directory
+57640f049777893a58742b33b37086fbfe54c835,lichenyu20,2023-10-27 05:57:45+00:00,add Koopa
+6422dfbfb4e128901bd18bac0dd1bd12fc615b8b,wuhaixu2016,2023-10-26 03:37:35+00:00,"Merge pull request #239 from RS-labhub/main
+
+README.md"
+87d36fcc63508ed8e1e84d9344294d2e1c2be67d,RS-labhub,2023-10-25 17:32:32+00:00,"Merge pull request #1 from RS-labhub/RS-labhub-patch-1
+
+Update README.md"
+08064cc39ad8e097c76b106da2b3241f9f9b6887,RS-labhub,2023-10-25 17:32:03+00:00,Update README.md
+819fa842481f61d3453cd47e47241dfb1cf66336,wuhaixu2016,2023-10-25 08:04:29+00:00,Update README.md
+0a99aa0f4d4c2271f56432f957e3f64a5f5d2ca5,GuoKaku,2023-10-23 15:47:32+00:00,add n_heads for FEDformer
+55e71d23860001a3510f6a8633f7f253da2dad0b,GuoKaku,2023-10-23 14:16:13+00:00,"Merge pull request #233 from bhargavshirin/bhargav
+
+added full_stops"
+740fbf07d2c0525393866f46e0df060df960d8b6,bhargavshirin,2023-10-23 13:35:30+00:00,added full_stops
+1498d8cbd40766cf83d5b8aab2df8781da8700f4,wuhaixu2016,2023-10-22 09:13:32+00:00,"Merge pull request #229 from alienishi/main
+
+docs: Corrected minute grammatical errors in README.md"
+851f272a1f2340beaf55b8e991a7342c748c454d,wuhaixu2016,2023-10-22 09:13:23+00:00,Merge branch 'main' into main
+5698e7b2356dc924c8b189f82493c1c079865693,wuhaixu2016,2023-10-22 09:10:54+00:00,"Merge pull request #231 from ayushrakesh/patch-1
+
+Update README.md - Fixed a Grammar bug in README.md file."
+c9b65b92cfbe9153a0ab16d9f6c1f45b664fff1a,wuhaixu2016,2023-10-22 09:10:38+00:00,"Merge pull request #224 from FarukhS52/main
+
+Fixed Typos and grammar issues in Readme.md"
+00dbc8933332ada0ec1182105a3bab0714b7d83b,wuhaixu2016,2023-10-22 09:08:30+00:00,"Merge pull request #225 from shresthasurav/patch1
+
+docs: fix and improve content in tutorial/TimesNet_tutorial.ipynb"
+7dadcd999ff4025a73c31007042b0a5dea2b1c56,wuhaixu2016,2023-10-22 09:06:50+00:00,Update README.md
+13704bb0f329336120f9906e2ac5b117b198a6a5,wuhaixu2016,2023-10-22 09:06:22+00:00,"Merge pull request #232 from Shivam250702/main
+
+Update README.md"
+94ef669d479f05c3bf3d5506e289b686552f5aa2,Shivam250702,2023-10-22 04:46:10+00:00,"Update README.md
+
+Removed Grammatical Errors and punctuation marks error."
+a87a468970a8bf53a81fbef8fd4490d7bca14884,ayushrakesh,2023-10-22 04:37:14+00:00,Update README.md
+382ad52064c6b2fd5c5de761d6e29dbcd0c546b4,alienishi,2023-10-22 03:15:09+00:00,Updated README.md
+2666729d3e93a8cf58a37fed10a9af2855869a67,0Armaan025,2023-10-21 18:35:48+00:00,Made CONTRIBUTING.md
+8affeacb32e9d9009ebfb476e41b141907075edf,FarukhS52,2023-10-21 13:11:15+00:00,Update README.md
+dd15a3eed8a1e6bd1c9a3ea9b5effb763d68b929,shresthasurav,2023-10-21 12:14:25+00:00,docs: fix and improve content in tutorial/TimesNet_tutorial.ipynb
+8e3f7dc9271815370edf6f0b287f206517ef6d4a,wuhaixu2016,2023-10-21 11:20:49+00:00,"Merge pull request #223 from eltociear/patch-1
+
+Fix typo in README.md"
+a2a3cd845418fceaa8a216e2b53864f73e35f4a4,eltociear,2023-10-21 10:15:45+00:00,"Fix typo in README.md
+
+leaderborad -> leaderboard"
+843ee18239b895b3018e7240002e85a0433e7f8b,ZDandsomSP,2023-10-17 01:58:24+00:00,"Merge pull request #216 from ChuckTG/patch-1
+
+Update iTransformer_ETTh2.sh to match the dims of ETT dataset"
+6fa993ec87612baadcff3f44608c1b93b49b05ae,ChuckTG,2023-10-16 15:14:53+00:00,Update iTransformer_ETTh2.sh to match the dims of ETT dataset
+3af2eec42ec44ca2127b805ccad3024260ffa25c,ZDandsomSP,2023-10-15 15:36:17+00:00,standardize the naming and annotation of the code
+64e0cdee986fb284c6de53aa7b1fd0d331bd2c76,ZDandsomSP,2023-10-15 14:48:44+00:00,Official implementation of iTransformer added
+408d1d638e6755443d7822d5f002e0ca59d140cf,ZDandsomSP,2023-10-15 14:48:28+00:00,Merge remote-tracking branch 'origin/main'
+d3d6a95541e8b1e22d8072f0d58a1859be403f55,ZDandsomSP,2023-10-15 14:46:47+00:00,Official implementation of iTransformer added
+f9db5e6f3736c817522f30f7f9273a374aeaa1db,wuhaixu2016,2023-10-15 14:20:31+00:00,Update README.md
+102ccd6d3b91aba9d00a9096d66782c9ddcc9918,wuhaixu2016,2023-10-15 11:17:58+00:00,Update README.md
+361136b3ca2c55d66c1c4f6a86002564525fa584,wuhaixu2016,2023-10-15 11:17:24+00:00,Update README.md
+715bc1515a91e623db4ef7be9c6262a6339c7b8c,ZDandsomSP,2023-10-15 10:40:47+00:00,Official implementation of iTransformer added
+096f5d58d6d2cfb0b4f025bee8373cfc723e673c,ZDandsomSP,2023-10-15 09:59:46+00:00,Official implementation of iTransformer added
+df10550a9fbedc09d7eddc30c0065dfe1764e5ca,GuoKaku,2023-09-28 04:02:25+00:00,update tutorial about timeF encoding
+a865a88c125471b04de25e29b67e68fc8a57e371,GuoKaku,2023-09-27 15:03:14+00:00,update tutorial about timeF encoding
+bafdd07b07fb2a3751ca5917a556fbb53dff06a7,GuoKaku,2023-09-26 11:48:23+00:00,fixed --inverse
+bde788010d3b4cfcdd09cefca596658cf5ac2d22,GuoKaku,2023-09-26 11:42:35+00:00,fixed --inverse
+beb2cb0842b30d17ea4de8862f1529e53d9b5bbb,wuhaixu2016,2023-09-14 05:04:19+00:00,Update data_loader.py
+d13b3de2be6e5b35402f691e42aeb664c7a639e3,GuoKaku,2023-09-06 14:35:54+00:00,Merge branch 'main' of https://github.com/thuml/Time-Series-Library
+b9d35af5a0f19a25db65649615d4fc5c4571aa09,GuoKaku,2023-09-06 14:35:47+00:00,small bug fixed
+182fdbadde3beabc5874ee0a441b05f87c4179df,wuhaixu2016,2023-09-06 13:10:02+00:00,Update README.md
+7c1945260ae795512135eabff9d68039ccb9fe19,wuhaixu2016,2023-09-06 13:07:30+00:00,Update README.md
+951df2db8938a784d9d3895571021e1737ef2dfb,wuhaixu2016,2023-09-06 13:04:56+00:00,Update README.md
+9086e3e0bb8b597a57730ed6ef99af7949f9c932,GuoKaku,2023-09-06 12:56:24+00:00,upload tutorial
+bacbaa156d13942400ff8ff5a5ff70bb7fd15122,wuhaixu2016,2023-09-05 04:53:03+00:00,"Merge pull request #174 from cennn/patch-1
+
+Fix error: Traffic/Transformer.sh"
+fad0a93694077bb0be0d92a6650bdb9d559190dc,wuhaixu2016,2023-09-05 04:52:52+00:00,"Merge pull request #176 from cennn/patch-3
+
+Bug Fix: ECL_script/Transformer.sh"
+c7a2850785f1d0c5fb98bdce42ff049ed3ac34c3,wuhaixu2016,2023-09-05 04:52:41+00:00,"Merge pull request #175 from cennn/patch-2
+
+Bug Fix: ECL_script/Nonstationary_Transformer.sh"
+77bdf2965272e8533d00396b688555ed84a9549f,cennn,2023-09-05 04:06:42+00:00,"Bug Fix: ECL_script/Transformer.sh
+
+  --enc_in 321 \
+  --dec_in 321 \
+  --c_out 321 \"
+66d9d6b47dfa83fb6e9f27b6af01aeee1798b50d,cennn,2023-09-05 04:05:25+00:00,"Bug Fix: ECL_script/Nonstationary_Transformer.sh
+
+  --enc_in 321 \
+  --dec_in 321 \
+  --c_out 321 \"
+22166300906bc83c8135743f89bd5d746758b57c,cennn,2023-09-05 04:02:07+00:00,"Fix error: Traffic/Transformer.sh
+
+  --enc_in  862 \
+  --dec_in  862 \
+  --c_out 862 \"
+3caf8881de7c205687c0b9517a90d7d8de0ca56e,wuhaixu2016,2023-07-10 04:05:55+00:00,Update README.md
+148a1a95cf976201bbb7ce00361100796a164e15,wuhaixu2016,2023-07-10 04:04:57+00:00,Update README.md
+58751808f5198e97eea67a69760c4887eef6d562,wuhaixu2016,2023-06-15 07:17:14+00:00,Update README.md
+5e2e8874a5492a7997a5e0e79d7e5ba997888737,wuhaixu2016,2023-05-25 03:46:26+00:00,Update MICN_ETTh2.sh
+ec3f6b43f0bf54c47c7b401883b41ffb58bcf658,wuhaixu2016,2023-05-25 03:45:56+00:00,Update MICN_ETTh1.sh
+753f74f3837f4e571688515dfd0adb87b72f6b83,wuhaixu2016,2023-05-13 16:03:22+00:00,Update TimesNet_ETTh1.sh
+05e381c0f58dca3390e7f88f2d716d2ce860bb00,wuhaixu2016,2023-05-07 16:02:27+00:00,Update README.md
+6148d13ac519ca95934573f840a85823d831171d,ZDandsomSP,2023-04-20 10:47:09+00:00,Improve annotations
+3af8b04d443a5b90c08747fe5f3c286105f7281f,ZDandsomSP,2023-04-20 10:39:42+00:00,Merge remote-tracking branch 'origin/main'
+e277057c8375ad8f24b962dac26e27d26538c1d8,ZDandsomSP,2023-04-20 10:39:20+00:00,Improve annotations
+b9c6f4c486b339eca185f52da1b913eb8ef48d80,wuhaixu2016,2023-04-19 13:03:00+00:00,Update TimesNet_M4.sh
+f7302ff30f49b11aaf7f1ba951e2c78617e0ed96,wuhaixu2016,2023-04-14 13:11:59+00:00,Update README.md
+8a5a4d77d734141782529a6e1cefb73178b1888c,ZDandsomSP,2023-04-13 15:42:16+00:00,Correct annotation errors
+565ceab2b4cf56607511ec969630d6de72fcd1b8,ZDandsomSP,2023-04-13 12:14:05+00:00,Merge remote-tracking branch 'origin/main'
+ea252021260c90435945fd9a303c7fd5574115d3,ZDandsomSP,2023-04-13 12:13:54+00:00,add FiLM and corresponding scripts
+2665a3143dae12d1cbcc31ddd396bbff48773bce,wuhaixu2016,2023-03-30 16:19:10+00:00,Delete seq_len
+9ea5d9149eff00528d4237839f2b3526a7f9b9c7,wuhaixu2016,2023-03-30 14:19:25+00:00,Update README.md
+15958e56a813bce33dbfc9f05cff5845800de3a7,wuhaixu2016,2023-03-30 14:17:13+00:00,"Merge pull request #60 from kashif/patch-1
+
+proper attribution for time features"
+795e56de8410ca6d792c80e586af36648c5c030e,kashif,2023-03-28 19:57:19+00:00,proper attribution for time features
+e4695e51fe58f4cc812a3ffa055029d7fc443d40,wuhaixu2016,2023-03-25 15:33:31+00:00,Update FEDformer.py
+4a0826a3ed174ef7a3f3e1838d490f3c877dfb0e,wuhaixu2016,2023-03-25 14:57:10+00:00,clean
+38ac44427e35d91c5bad3859d56347a9cc9801d3,wuhaixu2016,2023-03-25 13:54:50+00:00,refine script
+01640e9b5dd833f7e616aec899261fcd35414812,wuhaixu2016,2023-03-25 13:49:00+00:00,clean
+2463a9351519b11ce761803774d1bf4fe5302e99,wuhaixu2016,2023-03-25 13:38:56+00:00,Update requirements.txt
+69eaf1b83a5643cb34578376c0a6d57ddcc05f54,wuhaixu2016,2023-03-25 13:38:17+00:00,"Merge pull request #57 from imanmousaei/main
+
+Fix some bugs"
+d0f711bad3e80e0ec3b398124cff1faec090553d,imanmousaei,2023-03-25 10:35:23+00:00,Add some comments to clarify
+187a2028284805585e743308219dc23df4408b6f,ZDandsomSP,2023-03-25 02:44:14+00:00,Merge remote-tracking branch 'origin/main'
+7e8b51d4894cfa0f7ce14e39ddca8f9e9af0b0b6,ZDandsomSP,2023-03-25 02:44:01+00:00,fix the model of PatchTST
+07e7608d7afa4e6c4614038dfa89ae94e9d19f8f,imanmousaei,2023-03-24 21:40:30+00:00,Add version for requirements
+852d709ae975ca68a2fbf2251cd08c8dfc9e2969,imanmousaei,2023-03-24 21:32:04+00:00,Remove some prints
+e9a85cd8e6ddf2975915e6de2de90edecaeaa68c,imanmousaei,2023-03-24 21:16:50+00:00,Fix function call
+a17507311135ca90b00fbde86ea00765c7749b67,imanmousaei,2023-03-24 20:49:05+00:00,Fix some errors
+a924427963702525211e7364d87dd72367354b0d,haniejalili,2023-03-24 18:20:17+00:00,Fix TimesNet bash
+552aa0986b6b0bd29fedfb43347f9754e876ec55,imanmousaei,2023-03-24 18:01:44+00:00,Merge branch 'main' of github.com:imanmousaei/Time-Series-Library into main
+1e61f21d1498e97dd903287e6d4815e0a508b72c,imanmousaei,2023-03-24 18:01:13+00:00,Add dataset
+aacddeaf7d62dcca3a386be328503bbc3e3c1e1c,wuhaixu2016,2023-03-23 05:51:09+00:00,Update run.py
+fb2ef740b30f13ec5cf366ea85733635a0bb0ae9,wuhaixu2016,2023-03-09 13:42:54+00:00,Update README.md
+710b10b72473be9172fac6739d99f15174950794,ZDandsomSP,2023-03-09 13:25:31+00:00,add Crossformer and corresponding scripts
+1305528f6189551fca0c201a848acbdecdafb030,ZDandsomSP,2023-03-09 13:22:50+00:00,"Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	README.md"
+3afa6e18cc068d795aabe8c1fda62000c0d93740,ZDandsomSP,2023-03-09 13:12:31+00:00,add Crossformer and corresponding scripts
+5d595b9ae4b23b34a39e145459085756ce493d56,wuhaixu2016,2023-03-09 12:53:47+00:00,Update run.py
+5e5f18941510a76e6842cff9d341bd5dea01e60a,wuhaixu2016,2023-03-08 08:17:26+00:00,Update run.py
+6dff74a064ded463939067e74d40aee145812065,wuhaixu2016,2023-03-02 14:46:55+00:00,Update README.md
+d8565ee85f6bfbd3c02d7b255fa3c88efe3042ad,wuhaixu2016,2023-03-02 08:34:50+00:00,Update README.md
+1e89fd8de9d3cd7882a759d13e77257cf22b96ed,wuhaixu2016,2023-03-02 08:32:19+00:00,Update README.md
+658c0bdac862c6dcbd32f017fcb26119380d3371,wuhaixu2016,2023-03-02 08:31:41+00:00,Update FourierCorrelation.py
+aa35dd2897e423f0066d093b63ad37f634ff9ca0,ZDandsomSP,2023-03-02 07:41:04+00:00,"Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	README.md
+#	exp/exp_basic.py
+#	layers/FourierCorrelation.py"
+a8ea6b82a8f8105b7fd45622d0429d9b4d34cd09,ZDandsomSP,2023-03-02 07:38:31+00:00,add MICN and corresponding scripts
+fef81e4c38f22dd219048bdadba5c64a4f350e9e,ZDandsomSP,2023-03-02 07:34:19+00:00,add MICN and corresponding scripts
+0d1f5330474ad7a7c4d8572d1405978faff1e8b9,htg17,2023-02-27 09:17:15+00:00,Merge branch 'main' of github.com:thuml/Time-Series-Library
+3a4819420d14095354aae96750ce8c499ef5f05e,htg17,2023-02-27 09:16:24+00:00,Improve baseline results
+29a53c53f0957d2bb281dec342c567f393c2e9e3,wuhaixu2016,2023-02-25 14:25:18+00:00,Update TimesNet.sh
+f01c1817d388aaccf81ca684e544e1eaecbb2e83,wuhaixu2016,2023-02-24 19:18:20+00:00,Update requirements.txt
+6a5402175785e4307a1d91435d4d4040b9c66f70,wuhaixu2016,2023-02-24 19:17:32+00:00,Update FEDformer.py
+da76386934e27a864d8d8bd61a9a1cd96ebb956f,wuhaixu2016,2023-02-24 19:16:47+00:00,Update MultiWaveletCorrelation.py
+3fad8aca7022362dd1669533d65a4fcac4df3217,wuhaixu2016,2023-02-24 19:16:25+00:00,Update FourierCorrelation.py
+42b2c29eb2bb07b56e8ed943be6afff2bb1111eb,wuhaixu2016,2023-02-24 15:12:12+00:00,Update SelfAttention_Family.py
+4f4cf185e7cb64df343a2ba3254c718fad08c635,wuhaixu2016,2023-02-24 14:52:41+00:00,Update README.md
+90cc0a4bd1d2d5e5a575e82cd161af36a683abb7,wuhaixu2016,2023-02-23 14:21:08+00:00,Update README.md
+e2079f2488b477d51f34f64a4346a587c3a1bcec,htg17,2023-02-23 11:57:33+00:00,Add Pyraformer and scipts
+4ed858e6b5f0d027cef3e324b0f8f5ba5bfc0ab8,wuhaixu2016,2023-02-23 09:19:34+00:00,Update README.md
+01deba70488960c0f1e736abc27cb69d7cae56cd,ZDandsomSP,2023-02-23 07:31:25+00:00,"Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	exp/exp_basic.py"
+f525a1f564653e0fff9ba89befdc7776b6bc0456,ZDandsomSP,2023-02-23 07:26:34+00:00,add PatchTST and corresponding scripts
+34c264d5e7bd76a0d1f9379554f2907d5ef1eaa2,wuhaixu2016,2023-02-22 17:18:48+00:00,Update requirements.txt
+acd6b5eeb39c74f1b13fbc27abff3f9935f98828,wuhaixu2016,2023-02-22 17:15:52+00:00,Update requirements.txt
+d7c68b2bb1c1b071c183c465fd9ee4bc77c8b5a4,wuhaixu2016,2023-02-22 02:41:47+00:00,Update TimesNet.py
+fd74cbc442c9ed95c728269bad67e30de0899bec,wuhaixu2016,2023-02-22 02:24:19+00:00,Update TimesNet.py
+379a29e82cd3d74a5ee5ca806c35af5b88e8515e,htg17,2023-02-20 01:19:19+00:00,Updata README.md
+510137a9aeff3904733144fddb714e79fe6dea60,wuhaixu2016,2023-02-19 04:05:46+00:00,Update README.md
+15bb45eb71f192c8a62e78f04eeca8d46ec985de,wuhaixu2016,2023-02-19 03:51:13+00:00,Update README.md
+b9fc9a4aff350864badef05bcc5430faf537104d,wuhaixu2016,2023-02-19 03:49:20+00:00,Update README.md
+70d354e7db740d6f04535c86da4b1e8e61e27176,htg17,2023-02-18 13:22:23+00:00,update requirements
+16e87dfa432d4f3fd5b7c0a8a0931a3f07e19e44,wuhaixu2016,2023-02-18 13:10:49+00:00,Update requirements.txt
+230805fe9f451b61e34b96116d995b417e343ac0,htg17,2023-02-18 12:30:09+00:00,update framework
+fea137783c73ef9f8ba96f5f0e19f1869d3f2390,wuhaixu2016,2023-02-18 08:41:45+00:00,update framework
+39f0053cc95f88179eda7663c3b8e4ef02bd7d21,wuhaixu2016,2023-02-17 08:15:57+00:00,Update README.md
+2822ca0b56216ce75ea96fd0ec689ec025ae2f1f,wuhaixu2016,2023-02-17 08:11:21+00:00,Update README.md
+33acefbcb83ae20611c226f1245945b66986260b,htg17,2023-02-17 07:26:01+00:00,Rename pyraformer file
+ae3fb6ed9dac647c2adeae003dc09c420e6e2300,htg17,2023-02-17 03:58:42+00:00,Merge branch 'main' of github.com:thuml/Time-Series-Library
+c4439e75919802015a48765efaeddfc1c3e25381,htg17,2023-02-17 03:56:52+00:00,ETSformer and Pyraformer
+4153a1e65f4f3b4505e7d90e5f83be1cb4e7806f,wuhaixu2016,2023-02-16 11:22:38+00:00,Update README.md
+b86bcfa436e1fe97803a5fa219ab1c430b4472a1,ZDandsomSP,2023-02-16 11:16:59+00:00,add Nonstationary_Transformer and corresponding scripts
+1ec7debbb02b376226eda325636123763389cc72,wuhaixu2016,2023-02-15 07:06:18+00:00,update dataset discription
+e08ddc008441f5051844a2ee9e25d4706c39b904,wuhaixu2016,2023-02-13 09:23:56+00:00,init
+9f9bb9d5e2de9d0bdd98a9187a8857a967adb810,wuhaixu2016,2023-02-13 08:47:46+00:00,Initial commit

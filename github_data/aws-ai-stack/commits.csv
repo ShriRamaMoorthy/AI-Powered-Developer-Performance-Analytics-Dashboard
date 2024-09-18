@@ -1,0 +1,36 @@
+sha,author,date,message
+c5cfaeab71cae9338eed1b527eeb4cdd02a80edb,skierkowski,2024-09-16 00:05:26+00:00,"Merge pull request #8 from eltociear/patch-1
+
+chore: update README.md"
+49215461fb407a718a469a7287eaba00f726c59e,skierkowski,2024-09-15 04:39:59+00:00,bumping up global limit
+157531beb049536c4d92fba1f7d84f2db59d8870,eltociear,2024-09-12 01:58:49+00:00,"chore: update README.md
+
+minor fix"
+9e0745d11a0e221ad5ec4dbb9043abbdbf510b12,skierkowski,2024-09-11 17:05:20+00:00,"Merge pull request #5 from serverless/add-favicon
+
+feat: add favicon"
+ee502e41524cc1d43df022bf14209836f05cd4ea,skierkowski,2024-09-11 16:20:20+00:00,bumping up the limits
+bce7c4e63575baaa1a2819376f9c8b5bd1267032,austencollins,2024-09-11 14:45:30+00:00,chore: update readme
+0f38d394b4318da412286f7a193021748c190497,austencollins,2024-09-11 14:42:45+00:00,chore: update readme
+02c19fc54bdcfba25ae44bf121d876f6b4f28ccf,austencollins,2024-09-11 14:41:02+00:00,chore: update readme
+1be5ebb1491c144f4af3e88a1c95a3bbc6131342,austencollins,2024-09-11 14:39:02+00:00,chore: update readm
+695131497e49066f6951ab1c908074bde2f3452e,austencollins,2024-09-10 21:50:35+00:00,chore: update readme
+04836ddbd22013db8cf4d0ac018c58cda968a6f9,austencollins,2024-09-10 21:44:23+00:00,chore: update readme
+e256bae3a35c60c7932390f901dfadfd71337570,walidelnozahy,2024-09-10 16:39:17+00:00,feat: add favicon
+457c48dcc4cb358a37aa6798ed3bf584b8068c9f,skierkowski,2024-09-10 15:41:44+00:00,docs: add note on Bedrock enablement issues
+6b794c92244458f5a7f6df26f886b8fd583ee5db,skierkowski,2024-09-10 15:32:41+00:00,docs: add note about DNS verification in ACM
+c9b85fa17582570cf4e8ceeadfd17b7efec9a666,skierkowski,2024-09-10 15:30:06+00:00,docs: aws prefix is reserved
+503ef9ca8ad28fbc4a173b1254b186b8aed0d46e,skierkowski,2024-09-10 15:19:26+00:00,docs: running local dev server for website
+a2861c3f350cb384874164f7fa4f3b670a458f24,skierkowski,2024-09-10 15:01:22+00:00,"Merge pull request #4 from serverless/update-ui
+
+feat: update UI"
+c01d01deaf20a14919117efb789301f1cfc33504,walidelnozahy,2024-09-10 13:16:07+00:00,update framework link
+87b76c4fa75eac1dcf87e6f260c74b2bd303609c,walidelnozahy,2024-09-10 12:41:13+00:00,feat: update ui
+9c15ec14f611a2791eb49059488a54d943e037e3,walidelnozahy,2024-09-10 12:25:53+00:00,feat: update ui
+4b642669ec97a3cc202acc7ae442478db8c8634c,skierkowski,2024-09-05 22:45:07+00:00,remove vite logo reference
+45928aa90280b2266323c5ac52e4b3a3e145279e,skierkowski,2024-09-05 22:40:46+00:00,Add command to watch & rebuild
+749a891eae2f389d0a3381cc44605f74b7151e1e,skierkowski,2024-09-05 17:49:37+00:00,docs: add live demo link
+e55dfe9c9c64b7e00b685d55a7fbe4ffc62e7371,skierkowski,2024-09-04 20:57:26+00:00,switch to using workspaces
+1497c87e9b78e302fa3b3c7431c8896196296125,skierkowski,2024-09-04 19:46:34+00:00,"docs: move ""deploy to prod"" to sub"
+a2bbd3a2375f6035602551f5e4dff2af1dc3e6ad,skierkowski,2024-09-04 19:43:49+00:00,docs: update getting started
+eee51a7b9502a389b3430ee821f9faa35641e50e,skierkowski,2024-09-04 19:24:40+00:00,AWS AI Example first commit
